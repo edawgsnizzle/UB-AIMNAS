@@ -1,0 +1,66 @@
+<!--
+
+This file defines garrisons in game.
+
+Fields index:
+	Sector  		- it is where garrison will be sitting. Provide valid sector name.
+
+	Composition		- it is composition index of garrison. Composition define quantity
+				  and quality of enemy forces. Look into ArmyCompositions.xml for
+				  more information.
+
+NOTE: Maximum 100 garrisons can be used in game.
+
+Changes require starting of a new game.
+
+-->
+<GARRISON_INFO>
+	<GARRISON>
+		<Sector>H9</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>I10</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>I11</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>E13</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>E14</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>F13</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>F14</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>G14</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>F10</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>J13</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>K14</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>K15</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+</GARRISON_INFO>

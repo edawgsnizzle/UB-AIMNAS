@@ -1,0 +1,154 @@
+<!-- Use this XML to place facilities on the map.
+
+		SectorGrid		=		Sector coordinates
+		FacilityType	=		Unique index number (see FacilityTypes.XML)
+		ubHidden			=		Does this facility appear in the sector info popup?
+											0 = Yes, always.
+											1 = Yes, but only once the sector's been explored.
+											2 = No, never.
+-->
+
+<SECTORFACILITIES>
+	<!-- SAM SITES -->
+	<FACILITY>
+		<SectorGrid>F10</SectorGrid>
+		<FacilityType>26</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>K14</SectorGrid>
+		<FacilityType>26</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+		<!-- SARDENA -->
+	<FACILITY>
+		<SectorGrid>E13</SectorGrid>
+		<FacilityType>6</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>E13</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>E13</SectorGrid>
+		<FacilityType>8</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>E13</SectorGrid>
+		<FacilityType>22</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>E14</SectorGrid>
+		<FacilityType>22</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>E14</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>E14</SectorGrid>
+		<FacilityType>28</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+		<FACILITY>
+		<SectorGrid>E14</SectorGrid>
+		<FacilityType>29</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>F13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+		<FACILITY>
+		<SectorGrid>F13</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>F13</SectorGrid>
+		<FacilityType>27</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>F14</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>F14</SectorGrid>
+		<FacilityType>16</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>F14</SectorGrid>
+		<FacilityType>27</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>G14</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>G14</SectorGrid>
+		<FacilityType>27</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<!-- GUARD POST -->
+	<FACILITY>
+		<SectorGrid>H9</SectorGrid>
+		<FacilityType>19</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H9</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<!-- VARREZ -->
+	<FACILITY>
+		<SectorGrid>I10</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I11</SectorGrid>
+		<FacilityType>21</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I11</SectorGrid>
+		<FacilityType>22</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I11</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<!-- COMPLEX -->
+	<FACILITY>
+		<SectorGrid>K15</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<!-- ABANDONED MINE -->
+	<FACILITY>
+		<SectorGrid>I13</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	<!-- POWERPLANT -->
+	<FACILITY>
+		<SectorGrid>J13</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+</SECTORFACILITIES>
