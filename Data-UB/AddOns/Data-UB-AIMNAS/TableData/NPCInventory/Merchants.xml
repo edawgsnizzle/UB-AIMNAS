@@ -322,16 +322,16 @@ uiFlags must be of
 	</MERCHANT>
 	<MERCHANT>
     <uiIndex>7</uiIndex>
-    <szName>Sam</szName>
+    <szName>Frank</szName>
     <dBuyModifier>1.0</dBuyModifier>
     <dSellModifier>1.0</dSellModifier>
-    <ubShopKeeperID>126</ubShopKeeperID>
+    <ubShopKeeperID>92</ubShopKeeperID>
     <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
-    <iInitialCash>3000</iInitialCash>
-    <uiFlags>268435456</uiFlags>
-    <dailyIncrement>1000</dailyIncrement>
-    <dailyMaximum>30000</dailyMaximum>
-    <dailyRetained>80</dailyRetained>
+    <iInitialCash>500</iInitialCash>
+    <uiFlags>536870912</uiFlags>
+    <dailyIncrement>100</dailyIncrement>
+    <dailyMaximum>5000</dailyMaximum>
+    <dailyRetained>60</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -343,16 +343,16 @@ uiFlags must be of
 	</MERCHANT>
 	<MERCHANT>
     <uiIndex>8</uiIndex>
-    <szName>Frank</szName>
+    <szName>Sam</szName>
     <dBuyModifier>1.0</dBuyModifier>
     <dSellModifier>1.0</dSellModifier>
-    <ubShopKeeperID>92</ubShopKeeperID>
+    <ubShopKeeperID>126</ubShopKeeperID>
     <ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
-    <iInitialCash>500</iInitialCash>
-    <uiFlags>536870912</uiFlags>
-    <dailyIncrement>100</dailyIncrement>
-    <dailyMaximum>5000</dailyMaximum>
-    <dailyRetained>60</dailyRetained>
+    <iInitialCash>3000</iInitialCash>
+    <uiFlags>268435456</uiFlags>
+    <dailyIncrement>1000</dailyIncrement>
+    <dailyMaximum>30000</dailyMaximum>
+    <dailyRetained>80</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -448,16 +448,16 @@ uiFlags must be of
 	</MERCHANT>
 	<MERCHANT>
     <uiIndex>13</uiIndex>
-    <szName>Micky</szName>
-    <dBuyModifier>1.1</dBuyModifier>
-    <dSellModifier>1.4</dSellModifier>
-    <ubShopKeeperID>96</ubShopKeeperID>
-    <ubTypeOfArmsDealer>2</ubTypeOfArmsDealer>
-    <iInitialCash>10000</iInitialCash>
-    <uiFlags>2415919104</uiFlags>
-    <dailyIncrement>1000</dailyIncrement>
-    <dailyMaximum>50000</dailyMaximum>
-    <dailyRetained>90</dailyRetained>
+    <szName>Arnie</szName>
+    <dBuyModifier>0.1</dBuyModifier>
+    <dSellModifier>0.8</dSellModifier>
+    <ubShopKeeperID>128</ubShopKeeperID>
+    <ubTypeOfArmsDealer>3</ubTypeOfArmsDealer>
+    <iInitialCash>1500</iInitialCash>
+    <uiFlags>2147483648</uiFlags>
+    <dailyIncrement>1500</dailyIncrement>
+    <dailyMaximum>1500</dailyMaximum>
+    <dailyRetained>0</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
@@ -469,16 +469,16 @@ uiFlags must be of
 	</MERCHANT>
 	<MERCHANT>
     <uiIndex>14</uiIndex>
-    <szName>Arnie</szName>
-    <dBuyModifier>0.1</dBuyModifier>
-    <dSellModifier>0.8</dSellModifier>
-    <ubShopKeeperID>128</ubShopKeeperID>
-    <ubTypeOfArmsDealer>3</ubTypeOfArmsDealer>
-    <iInitialCash>1500</iInitialCash>
-    <uiFlags>2147483648</uiFlags>
-    <dailyIncrement>1500</dailyIncrement>
-    <dailyMaximum>1500</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <szName>Micky</szName>
+    <dBuyModifier>1.1</dBuyModifier>
+    <dSellModifier>1.4</dSellModifier>
+    <ubShopKeeperID>96</ubShopKeeperID>
+    <ubTypeOfArmsDealer>2</ubTypeOfArmsDealer>
+    <iInitialCash>10000</iInitialCash>
+    <uiFlags>2415919104</uiFlags>
+    <dailyIncrement>1000</dailyIncrement>
+    <dailyMaximum>50000</dailyMaximum>
+    <dailyRetained>90</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>0</addToCoolness>
