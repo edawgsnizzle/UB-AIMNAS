@@ -1212,25 +1212,28 @@
     <SectorGrid>F14</SectorGrid>
     <szUnexploredName>Sardena</szUnexploredName>
     <szDetailedUnexploredName>Sardena</szDetailedUnexploredName>
-    <szExploredName>Sardena</szExploredName>
-    <szDetailedExploredName>Sardena</szDetailedExploredName>
+    <szExploredName>Sardena CBD</szExploredName>
+    <szDetailedExploredName>Sardena CBD</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
-    <usCivilianPopulation>150</usCivilianPopulation>
-	<wealth>7</wealth>
+    <usCivilianPopulation>500</usCivilianPopulation>
+	<wealth>15</wealth>
  	<rainchance>40</rainchance>
   <snowchance>2</snowchance>
 	<sandstormchance>0</sandstormchance>
   </SECTOR>
    <SECTOR>
     <SectorGrid>F15</SectorGrid>
-    <szUnexploredName>Forest, road</szUnexploredName>
-    <szDetailedUnexploredName>Forest, road</szDetailedUnexploredName>
-    <szExploredName>Forest, road</szExploredName>
-    <szDetailedExploredName>Forest, road</szDetailedExploredName>
+    <szUnexploredName>Sardena</szUnexploredName>
+    <szDetailedUnexploredName>Sardena</szDetailedUnexploredName>
+    <szExploredName>Sardena Industrial</szExploredName>
+    <szDetailedExploredName>Sardena Industrial</szDetailedExploredName>
     <sWaterType>1</sWaterType>
-    <usNaturalDirt>170</usNaturalDirt>
- 	<rainchance>30</rainchance>
+    <usNaturalDirt>150</usNaturalDirt>
+    <usCivilianPopulation>150</usCivilianPopulation>
+	<wealth>7</wealth>
+ 	<rainchance>40</rainchance>
+  <snowchance>2</snowchance>
 	<sandstormchance>0</sandstormchance>
   </SECTOR>
    <SECTOR>

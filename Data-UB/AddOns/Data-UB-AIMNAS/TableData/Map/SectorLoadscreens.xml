@@ -781,20 +781,20 @@
 		<uiIndex>77</uiIndex>
 		<szLocation>E13</szLocation>
 		<RandomAltSector>1</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayMilitary</szDay>
-		<szNight>Loadscreens\LS_NightMilitary</szNight>
-		<szDayAlt>Loadscreens\LS_DayMilitary</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightMilitary</szNightAlt>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_BarracksDay</szDay>
+		<szNight>Loadscreens\LS_BarracksNight</szNight>
+		<szDayAlt>Loadscreens\LS_BarracksDay</szDayAlt>
+		<szNightAlt>Loadscreens\LS_BarracksNight</szNightAlt>
     	<szImageFormatAlt>PNG</szImageFormatAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>78</uiIndex>
 		<szLocation>E14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayAirport</szDay>
-		<szNight>Loadscreens\LS_NightAirport</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_AirportDay</szDay>
+		<szNight>Loadscreens\LS_AirportNight</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -953,21 +953,21 @@
 		<uiIndex>94</uiIndex>
 		<szLocation>F14</szLocation>
 		<RandomAltSector>1</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayTown2</szDay>
-		<szNight>Loadscreens\LS_NightTown2</szNight>
-		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>	
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_CityDay</szDay>
+		<szNight>Loadscreens\LS_CityNight</szNight>
+		<szDayAlt>Loadscreens\LS_CityDay</szDayAlt>
+		<szNightAlt>Loadscreens\LS_CityNight</szNightAlt>	
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>95</uiIndex>
 		<szLocation>F15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
-		<szDayAlt></szDayAlt>
-		<szNightAlt></szNightAlt>	
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_JunkyardDay</szDay>
+		<szNight>Loadscreens\LS_JunkyardNight</szNight>
+		<szDayAlt>Loadscreens\LS_JunkyardDay</szDayAlt>
+		<szNightAlt>Loadscreens\LS_JunkyardNight</szNightAlt>	
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>96</uiIndex>

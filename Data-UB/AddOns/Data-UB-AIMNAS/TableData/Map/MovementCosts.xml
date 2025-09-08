@@ -898,7 +898,7 @@ Possible values for Here tag:
 		<Sector y="F" x="14">
 			<TravelRating>0</TravelRating>
 			<North>TOWN</North>
-			<East>EDGEOFWORLD</East>
+			<East>TOWN</East>
 			<South>TOWN</South>
 			<West>TOWN</West>
 			<Here>TOWN</Here>
@@ -908,9 +908,8 @@ Possible values for Here tag:
 			<North>EDGEOFWORLD</North>
 			<East>EDGEOFWORLD</East>
 			<South>EDGEOFWORLD</South>
-			<West>EDGEOFWORLD</West>
-			<Here>EDGEOFWORLD</Here>
-			<BadSector>1</BadSector>
+			<West>TOWN</West>
+			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="F" x="16">
 			<TravelRating>0</TravelRating>

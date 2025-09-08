@@ -48,7 +48,7 @@
 	</FACILITY>
 	<FACILITY>
 		<SectorGrid>E14</SectorGrid>
-		<FacilityType>25</FacilityType>
+		<FacilityType>30</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 	<FACILITY>
@@ -83,11 +83,26 @@
 	</FACILITY>
 	<FACILITY>
 		<SectorGrid>F14</SectorGrid>
+		<FacilityType>27</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>F15</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>F15</SectorGrid>
 		<FacilityType>16</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 	<FACILITY>
-		<SectorGrid>F14</SectorGrid>
+		<SectorGrid>F15</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>F15</SectorGrid>
 		<FacilityType>27</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>

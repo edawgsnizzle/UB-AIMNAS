@@ -6510,14 +6510,14 @@
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
-		<NotBuyable>1</NotBuyable>
+		<NotBuyable>0</NotBuyable>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
 	<ITEM>
 		<uiIndex>206</uiIndex>
-		<szLongItemName>Placeholder 206</szLongItemName>
+		<szLongItemName>Placeholder</szLongItemName>
 		<usItemClass>1</usItemClass>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />

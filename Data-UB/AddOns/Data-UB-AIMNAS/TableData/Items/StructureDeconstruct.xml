@@ -14,6 +14,20 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
+		<!-- sandbag small -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1539</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>2.5</dCreationCost>
+		<szTileSetDisplayName>Sm Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
 		<!-- sandbag medium -->
 		<usDeconstructItem>377</usDeconstructItem>
 		<usItemToCreate>1540</usItemToCreate>
@@ -21,6 +35,19 @@
 		<dCreationCost>3.0</dCreationCost>
 		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE>
+		<!-- sandbag medium -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1540</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>3.0</dCreationCost>
+		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>
 		<allowedtile>6</allowedtile>
@@ -34,6 +61,16 @@
 		<dCreationCost>3.5</dCreationCost>
 		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE>
+		<!-- sandbagbarricade large -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1541</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>3.5</dCreationCost>
+		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
 		<allowedtile>2</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
@@ -190,6 +227,20 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
+		<!-- sandbag small -->
+		<usDeconstructItem>1411</usDeconstructItem>
+		<usItemToCreate>1539</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>2.5</dCreationCost>
+		<szTileSetDisplayName>Sm Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
 		<!-- sandbag medium -->
 		<usDeconstructItem>1411</usDeconstructItem>
 		<usItemToCreate>1540</usItemToCreate>
@@ -203,6 +254,19 @@
 		<allowedtile>7</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
+		<!-- sandbag medium -->
+		<usDeconstructItem>1411</usDeconstructItem>
+		<usItemToCreate>1540</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>3.0</dCreationCost>
+		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
 		<!-- sandbagbarricade large -->
 		<usDeconstructItem>1411</usDeconstructItem>
 		<usItemToCreate>1541</usItemToCreate>
@@ -210,6 +274,16 @@
 		<dCreationCost>3.5</dCreationCost>
 		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
+		<!-- sandbagbarricade large -->
+		<usDeconstructItem>1411</usDeconstructItem>
+		<usItemToCreate>1541</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>3.5</dCreationCost>
+		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
 		<allowedtile>2</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
@@ -267,6 +341,20 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
+		<!-- sandbag small -->
+		<usDeconstructItem>1412</usDeconstructItem>
+		<usItemToCreate>1539</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>2.5</dCreationCost>
+		<szTileSetDisplayName>Sm Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
 		<!-- sandbag medium -->
 		<usDeconstructItem>1412</usDeconstructItem>
 		<usItemToCreate>1540</usItemToCreate>
@@ -280,6 +368,19 @@
 		<allowedtile>7</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
+		<!-- sandbag medium -->
+		<usDeconstructItem>1412</usDeconstructItem>
+		<usItemToCreate>1540</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>3.0</dCreationCost>
+		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
 		<!-- sandbagbarricade large -->
 		<usDeconstructItem>1412</usDeconstructItem>
 		<usItemToCreate>1541</usItemToCreate>
@@ -287,6 +388,16 @@
 		<dCreationCost>3.5</dCreationCost>
 		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
+		<!-- sandbagbarricade large -->
+		<usDeconstructItem>1412</usDeconstructItem>
+		<usItemToCreate>1541</usItemToCreate>
+		<usCreatedItemStatus>50</usCreatedItemStatus>
+		<dCreationCost>3.5</dCreationCost>
+		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
 		<allowedtile>2</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
@@ -935,6 +1046,20 @@
 	<STRUCTURE>
 		<!-- Billhook-->
 		<usDeconstructItem>1404</usDeconstructItem>
+		<szTileSetName>P-OUT3.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
+		<!-- Billhook-->
+		<usDeconstructItem>1404</usDeconstructItem>
 		<szTileSetName>CMgasstation.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>
@@ -1155,6 +1280,20 @@
 		<allowedtile>3</allowedtile>
 		<allowedtile>4</allowedtile>
 		<allowedtile>5</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE>
+		<!-- Brushhook-->
+		<usDeconstructItem>1427</usDeconstructItem>
+		<szTileSetName>P-OUT3.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE>
 		<!-- Brushhook-->

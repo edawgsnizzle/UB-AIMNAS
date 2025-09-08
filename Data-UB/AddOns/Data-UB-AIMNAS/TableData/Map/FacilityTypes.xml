@@ -360,7 +360,7 @@
 	<FACILITYTYPE>
 		<ubIndex>24</ubIndex>
 		<szFacilityName>Workshop unit</szFacilityName>
-		<szFacilityShortName>workshop unit</szFacilityShortName>
+		<szFacilityShortName>Workshop</szFacilityShortName>
 		<ubTotalStaffLimit>6</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
@@ -490,7 +490,7 @@
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 
-		<FACILITYTYPE>
+	<FACILITYTYPE>
 		<ubIndex>29</ubIndex>
 		<szFacilityName>Staff Accommodation</szFacilityName>
 		<szFacilityShortName>Accomm</szFacilityShortName>
@@ -501,6 +501,37 @@
 			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usSleep>105</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>30</ubIndex>
+		<szFacilityName>Pilot's Lounge Bar</szFacilityName>
+		<szFacilityShortName>Bar</szFacilityShortName>
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Have a drink at the local bar! Increases loyalty in this town, for a price and a chance to get drunk.</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>15</sCostPerHour>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>700</usChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>15</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>40</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+			<DRUNK>
+				<ubChance>500</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DRUNK>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 </FACILITYTYPES>

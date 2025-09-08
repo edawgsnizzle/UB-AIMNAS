@@ -17,6 +17,24 @@
 		<westfacingtile>8</westfacingtile>
 		<westfacingtile>9</westfacingtile>
 	</STRUCTURE>
+	<STRUCTURE><!--sandbags small-->
+		<usCreationItem>1539</usCreationItem>
+		<usItemStatusLoss>50</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
+		<dCreationCost>7.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
+		<northfacingtile>3</northfacingtile>
+		<northfacingtile>4</northfacingtile>
+		<southfacingtile>3</southfacingtile>
+		<southfacingtile>4</southfacingtile>
+		<eastfacingtile>5</eastfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<eastfacingtile>9</eastfacingtile>
+		<westfacingtile>5</westfacingtile>
+		<westfacingtile>8</westfacingtile>
+		<westfacingtile>9</westfacingtile>
+	</STRUCTURE>
 	<STRUCTURE><!--sandbags medium -->
 		<usCreationItem>1540</usCreationItem>
 		<usItemStatusLoss>50</usItemStatusLoss>
@@ -32,11 +50,38 @@
 		<westfacingtile>6</westfacingtile>
 		<westfacingtile>7</westfacingtile>
 	</STRUCTURE>
+	<STRUCTURE><!--sandbags medium -->
+		<usCreationItem>1540</usCreationItem>
+		<usItemStatusLoss>50</usItemStatusLoss>
+		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
+		<dCreationCost>8.5</dCreationCost>
+		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
+		<northfacingtile>1</northfacingtile>
+		<southfacingtile>0</southfacingtile>
+		<southfacingtile>1</southfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<eastfacingtile>7</eastfacingtile>
+		<westfacingtile>6</westfacingtile>
+		<westfacingtile>7</westfacingtile>
+	</STRUCTURE>
 	<STRUCTURE><!-- sandbags large -->
 		<usCreationItem>1541</usCreationItem>
 		<usItemStatusLoss>50</usItemStatusLoss>
 		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
+		<dCreationCost>10.0</dCreationCost>
+		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
+		<northfacingtile>2</northfacingtile>
+		<southfacingtile>2</southfacingtile>
+		<eastfacingtile>2</eastfacingtile>
+		<westfacingtile>2</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- sandbags large -->
+		<usCreationItem>1541</usCreationItem>
+		<usItemStatusLoss>50</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
+		<szTileSetName>SNOW_BAG.STI</szTileSetName>
 		<dCreationCost>10.0</dCreationCost>
 		<fFortifyAdjacentAdjustment>1</fFortifyAdjacentAdjustment>
 		<northfacingtile>2</northfacingtile>

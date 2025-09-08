@@ -6244,8 +6244,8 @@
 			<mWeapon>4961</mWeapon>
 			<mWeaponDrop>1</mWeaponDrop>
 			<mWeaponStatus>100</mWeaponStatus>
-			<mBig0>0</mBig0>
-			<mBig0Status>0</mBig0Status>
+			<mBig0>1362</mBig0>
+			<mBig0Status>100</mBig0Status>
 			<mBig0Quantity>0</mBig0Quantity>
 			<mBig0Drop>1</mBig0Drop>
 			<mBig1>0</mBig1>
@@ -8053,7 +8053,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>97</mIndex>
-		<mName>Skyrider</mName>
+		<mName>Tolly</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -8551,7 +8551,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>103</mIndex>
-		<mName>Gordon</mName>
+		<mName>Zoe</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -8717,7 +8717,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>105</mIndex>
-		<mName>Ernest</mName>
+		<mName>Anton</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -10128,7 +10128,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>122</mIndex>
-		<mName>Armand</mName>
+		<mName>Graham</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -10211,7 +10211,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>123</mIndex>
-		<mName>Lora</mName>
+		<mName>Sravani</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -10294,7 +10294,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>124</mIndex>
-		<mName>Franz</mName>
+		<mName>Bernard</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -10377,7 +10377,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>125</mIndex>
-		<mName>Howard</mName>
+		<mName>Karl</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
@@ -10709,7 +10709,7 @@
 	</MERCGEAR>
 	<MERCGEAR>
 		<mIndex>129</mIndex>
-		<mName>Angel</mName>
+		<mName>Tina</mName>
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />

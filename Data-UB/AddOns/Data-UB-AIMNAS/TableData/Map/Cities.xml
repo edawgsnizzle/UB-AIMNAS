@@ -114,7 +114,7 @@ Changes do not require starting of a new game.
 		<CITY_TABLE_ROW row="03"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="04"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="05"> 0  0  0  0  0  0  0  0  0  0  0  0  0  3  3  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="06"> 0  0  0  0  0  0  0  0  0  0  0  0  0  3  3  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="06"> 0  0  0  0  0  0  0  0  0  0  0  0  0  3  3  3  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="07"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  3  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="08"> 0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="09"> 0  0  0  0  0  0  0  0  0  0  1  1  0  2  0  0  0  0 </CITY_TABLE_ROW>

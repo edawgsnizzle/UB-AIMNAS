@@ -9929,8 +9929,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>6</sSectorX>
-		<sSectorY>3</sSectorY>
+		<sSectorX>10</sSectorX>
+		<sSectorY>9</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
@@ -10577,8 +10577,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>5</sSectorX>
-		<sSectorY>3</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>7</bTown>
@@ -11355,43 +11355,43 @@
 	<PROFILE>
 		<uiIndex>103</uiIndex>
 		<Type>4</Type>
-		<zName>Gordon Jefferies</zName>
-		<zNickname>Gordon</zNickname>
+		<zName>Zoe Murphey</zName>
+		<zNickname>Zoe</zNickname>
 		<ubFaceIndex>103</ubFaceIndex>
 		<usVoiceIndex>103</usVoiceIndex>
-		<usEyesX>21</usEyesX>
+		<usEyesX>23</usEyesX>
 		<usEyesY>29</usEyesY>
-		<usMouthX>21</usMouthX>
-		<usMouthY>57</usMouthY>
+		<usMouthX>23</usMouthX>
+		<usMouthY>50</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>BLACKPANTS</PANTS>
-		<VEST>greyVEST</VEST>
-		<SKIN>BLACKSKIN</SKIN>
-		<HAIR>BLACKHEAD</HAIR>
-		<bSex>0</bSex>
-		<ubBodyType>12</ubBodyType>
+		<VEST>GREENVEST</VEST>
+		<SKIN>PINKSKIN</SKIN>
+		<HAIR>BROWNHEAD</HAIR>
+		<bSex>1</bSex>
+		<ubBodyType>13</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>9</bAttitude>
-		<bCharacterTrait>10</bCharacterTrait>
+		<bAttitude>3</bAttitude>
+		<bCharacterTrait>3</bCharacterTrait>
 		<bDisability>2</bDisability>
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>68</bLifeMax>
-		<bLife>24</bLife>
-		<bStrength>35</bStrength>
-		<bAgility>28</bAgility>
-		<bDexterity>69</bDexterity>
-		<bWisdom>87</bWisdom>
-		<bMarksmanship>66</bMarksmanship>
-		<bExplosive>1</bExplosive>
-		<bLeadership>12</bLeadership>
-		<bMedical>14</bMedical>
-		<bMechanical>11</bMechanical>
-		<bExpLevel>3</bExpLevel>
+		<bLifeMax>69</bLifeMax>
+		<bLife>69</bLife>
+		<bStrength>52</bStrength>
+		<bAgility>69</bAgility>
+		<bDexterity>89</bDexterity>
+		<bWisdom>76</bWisdom>
+		<bMarksmanship>11</bMarksmanship>
+		<bExplosive>0</bExplosive>
+		<bLeadership>1</bLeadership>
+		<bMedical>2</bMedical>
+		<bMechanical>1</bMechanical>
+		<bExpLevel>1</bExpLevel>
 		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
@@ -11418,35 +11418,35 @@
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
-		<bRace>1</bRace>
-		<bNationality>18</bNationality>
-		<bAppearance>0</bAppearance>
+		<bRace>0</bRace>
+		<bNationality>4</bNationality>
+		<bAppearance>4</bAppearance>
 		<bAppearanceCareLevel>0</bAppearanceCareLevel>
 		<bRefinement>0</bRefinement>
 		<bRefinementCareLevel>0</bRefinementCareLevel>
-		<bHatedNationality>16</bHatedNationality>
-		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
+		<bHatedNationality>-1</bHatedNationality>
+		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
-		<bSexist>0</bSexist>
+		<bSexist>1</bSexist>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
-		<usOptionalGearCost>0</usOptionalGearCost>
-		<bArmourAttractiveness>-1</bArmourAttractiveness>
-		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
+		<usOptionalGearCost>1678</usOptionalGearCost>
+		<bArmourAttractiveness>25</bArmourAttractiveness>
+		<bMainGunAttractiveness>16</bMainGunAttractiveness>
 		<fGoodGuy>1</fGoodGuy>
 		<usApproachFactorFriendly>100</usApproachFactorFriendly>
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>9</sSectorX>
-		<sSectorY>10</sSectorY>
-		<sSectorZ>1</sSectorZ>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
+		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>5</bTown>
-		<bTownAttachment>50</bTownAttachment>
+		<bTown>6</bTown>
+		<bTownAttachment>39</bTownAttachment>
 		<usBackground>103</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
 		<GrowthModifierStrength>0</GrowthModifierStrength>
@@ -11467,10 +11467,10 @@
 		<zNickname>Gabby</zNickname>
 		<ubFaceIndex>104</ubFaceIndex>
 		<usVoiceIndex>104</usVoiceIndex>
-		<usEyesX>22</usEyesX>
-		<usEyesY>31</usEyesY>
-		<usMouthX>22</usMouthX>
-		<usMouthY>54</usMouthY>
+		<usEyesX>23</usEyesX>
+		<usEyesY>29</usEyesY>
+		<usMouthX>23</usMouthX>
+		<usMouthY>50</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
@@ -11549,8 +11549,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>0</sSectorX>
-		<sSectorY>0</sSectorY>
+		<sSectorX>1</sSectorX>
+		<sSectorY>1</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
@@ -11571,14 +11571,14 @@
 	<PROFILE>
 		<uiIndex>105</uiIndex>
 		<Type>4</Type>
-		<zName>Dr. Ernest Poppin</zName>
-		<zNickname>Ernest</zNickname>
+		<zName>Anton Grech</zName>
+		<zNickname>Anton</zNickname>
 		<ubFaceIndex>105</ubFaceIndex>
 		<usVoiceIndex>105</usVoiceIndex>
-		<usEyesX>26</usEyesX>
-		<usEyesY>32</usEyesY>
-		<usMouthX>24</usMouthX>
-		<usMouthY>56</usMouthY>
+		<usEyesX>22</usEyesX>
+		<usEyesY>21</usEyesY>
+		<usMouthX>22</usMouthX>
+		<usMouthY>41</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
@@ -11657,9 +11657,9 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>4</sSectorX>
-		<sSectorY>11</sSectorY>
-		<sSectorZ>1</sSectorZ>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
+		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>9</bTown>
 		<bTownAttachment>16</bTownAttachment>
@@ -12521,7 +12521,7 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>14</sSectorX>
+		<sSectorX>15</sSectorX>
 		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>12</ubCivilianGroup>
@@ -13407,24 +13407,24 @@
 	<PROFILE>
 		<uiIndex>122</uiIndex>
 		<Type>4</Type>
-		<zName>Armand Ricci</zName>
-		<zNickname>Armand</zNickname>
+		<zName>Graham Timmins</zName>
+		<zNickname>Graham</zNickname>
 		<ubFaceIndex>122</ubFaceIndex>
 		<usVoiceIndex>122</usVoiceIndex>
-		<usEyesX>22</usEyesX>
-		<usEyesY>28</usEyesY>
-		<usMouthX>22</usMouthX>
-		<usMouthY>53</usMouthY>
+		<usEyesX>20</usEyesX>
+		<usEyesY>24</usEyesY>
+		<usMouthX>20</usMouthX>
+		<usMouthY>49</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
 		<PANTS>TANPANTS</PANTS>
-		<VEST>BLUEVEST</VEST>
+		<VEST>BROWNVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
 		<HAIR>WHITEHEAD</HAIR>
 		<bSex>0</bSex>
-		<ubBodyType>12</ubBodyType>
+		<ubBodyType>11</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>0</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
@@ -13493,11 +13493,11 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>11</sSectorX>
-		<sSectorY>12</sSectorY>
+		<sSectorX>15</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>11</bTown>
+		<bTown>3</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>122</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -13515,22 +13515,22 @@
 	<PROFILE>
 		<uiIndex>123</uiIndex>
 		<Type>4</Type>
-		<zName>Lora Ricci</zName>
-		<zNickname>Lora</zNickname>
+		<zName>Sravani Purandhri</zName>
+		<zNickname>Sravani</zNickname>
 		<ubFaceIndex>123</ubFaceIndex>
 		<usVoiceIndex>123</usVoiceIndex>
-		<usEyesX>24</usEyesX>
-		<usEyesY>33</usEyesY>
-		<usMouthX>23</usMouthX>
-		<usMouthY>52</usMouthY>
+		<usEyesX>21</usEyesX>
+		<usEyesY>23</usEyesY>
+		<usMouthX>20</usMouthX>
+		<usMouthY>41</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>BLUEPANTS</PANTS>
-		<VEST>greyVEST</VEST>
-		<SKIN>PINKSKIN</SKIN>
-		<HAIR>dirtblnde</HAIR>
+		<PANTS>BLACKPANTS</PANTS>
+		<VEST>BLUEVEST</VEST>
+		<SKIN>DARKSKIN</SKIN>
+		<HAIR>BLACKHEAD</HAIR>
 		<bSex>1</bSex>
 		<ubBodyType>13</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -13578,15 +13578,15 @@
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
-		<bRace>0</bRace>
-		<bNationality>0</bNationality>
-		<bAppearance>4</bAppearance>
-		<bAppearanceCareLevel>1</bAppearanceCareLevel>
-		<bRefinement>2</bRefinement>
-		<bRefinementCareLevel>1</bRefinementCareLevel>
+		<bRace>1</bRace>
+		<bNationality>30</bNationality>
+		<bAppearance>0</bAppearance>
+		<bAppearanceCareLevel>0</bAppearanceCareLevel>
+		<bRefinement>0</bRefinement>
+		<bRefinementCareLevel>0</bRefinementCareLevel>
 		<bHatedNationality>-1</bHatedNationality>
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
-		<bRacist>1</bRacist>
+		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
@@ -13601,8 +13601,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>11</sSectorX>
-		<sSectorY>12</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>11</bTown>
@@ -13623,22 +13623,22 @@
 	<PROFILE>
 		<uiIndex>124</uiIndex>
 		<Type>4</Type>
-		<zName>Franz Hinkle</zName>
-		<zNickname>Franz</zNickname>
+		<zName>Bernard Cunningham</zName>
+		<zNickname>Bernard</zNickname>
 		<ubFaceIndex>124</ubFaceIndex>
 		<usVoiceIndex>124</usVoiceIndex>
-		<usEyesX>23</usEyesX>
-		<usEyesY>30</usEyesY>
-		<usMouthX>22</usMouthX>
-		<usMouthY>54</usMouthY>
+		<usEyesX>20</usEyesX>
+		<usEyesY>14</usEyesY>
+		<usMouthX>21</usMouthX>
+		<usMouthY>47</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>GREENPANTS</PANTS>
-		<VEST>BROWNVEST</VEST>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>REDVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
-		<HAIR>BROWNHEAD</HAIR>
+		<HAIR>WHITEHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>12</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -13648,12 +13648,12 @@
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>79</bLifeMax>
+		<bLifeMax>69</bLifeMax>
 		<bLife>79</bLife>
 		<bStrength>59</bStrength>
 		<bAgility>58</bAgility>
 		<bDexterity>71</bDexterity>
-		<bWisdom>78</bWisdom>
+		<bWisdom>84</bWisdom>
 		<bMarksmanship>24</bMarksmanship>
 		<bExplosive>1</bExplosive>
 		<bLeadership>1</bLeadership>
@@ -13687,14 +13687,14 @@
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<bRace>0</bRace>
-		<bNationality>19</bNationality>
+		<bNationality>3</bNationality>
 		<bAppearance>0</bAppearance>
-		<bAppearanceCareLevel>0</bAppearanceCareLevel>
+		<bAppearanceCareLevel>1</bAppearanceCareLevel>
 		<bRefinement>2</bRefinement>
-		<bRefinementCareLevel>1</bRefinementCareLevel>
+		<bRefinementCareLevel>2</bRefinementCareLevel>
 		<bHatedNationality>2</bHatedNationality>
-		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
-		<bRacist>0</bRacist>
+		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
+		<bRacist>1</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
@@ -13709,8 +13709,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>12</sSectorX>
-		<sSectorY>12</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>11</bTown>
@@ -13731,8 +13731,8 @@
 	<PROFILE>
 		<uiIndex>125</uiIndex>
 		<Type>4</Type>
-		<zName>Howard Filmore</zName>
-		<zNickname>Howard</zNickname>
+		<zName>Karl Glarva</zName>
+		<zNickname>Karl</zNickname>
 		<ubFaceIndex>125</ubFaceIndex>
 		<usVoiceIndex>125</usVoiceIndex>
 		<usEyesX>20</usEyesX>
@@ -13817,8 +13817,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>12</sSectorX>
-		<sSectorY>12</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>7</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>11</bTown>
@@ -14141,7 +14141,7 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>14</sSectorX>
+		<sSectorX>15</sSectorX>
 		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
@@ -14163,42 +14163,42 @@
 	<PROFILE>
 		<uiIndex>129</uiIndex>
 		<Type>4</Type>
-		<zName>Angel Dasilva</zName>
-		<zNickname>Angel</zNickname>
+		<zName>Tina Elzan</zName>
+		<zNickname>Tina</zNickname>
 		<ubFaceIndex>129</ubFaceIndex>
 		<usVoiceIndex>129</usVoiceIndex>
-		<usEyesX>30</usEyesX>
-		<usEyesY>31</usEyesY>
-		<usMouthX>28</usMouthX>
-		<usMouthY>58</usMouthY>
+		<usEyesX>21</usEyesX>
+		<usEyesY>28</usEyesY>
+		<usMouthX>21</usMouthX>
+		<usMouthY>54</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>BLUEPANTS</PANTS>
-		<VEST>BLACKSHIRT</VEST>
-		<SKIN>TANSKIN</SKIN>
+		<PANTS>GREENPANTS</PANTS>
+		<VEST>BROWNVEST</VEST>
+		<SKIN>BLACKSKIN</SKIN>
 		<HAIR>BLACKHEAD</HAIR>
-		<bSex>0</bSex>
-		<ubBodyType>12</ubBodyType>
+		<bSex>1</bSex>
+		<ubBodyType>14</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>0</bAttitude>
-		<bCharacterTrait>1</bCharacterTrait>
+		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>83</bLifeMax>
-		<bLife>83</bLife>
-		<bStrength>67</bStrength>
-		<bAgility>89</bAgility>
-		<bDexterity>51</bDexterity>
-		<bWisdom>71</bWisdom>
-		<bMarksmanship>32</bMarksmanship>
+		<bLifeMax>88</bLifeMax>
+		<bLife>88</bLife>
+		<bStrength>51</bStrength>
+		<bAgility>81</bAgility>
+		<bDexterity>98</bDexterity>
+		<bWisdom>60</bWisdom>
+		<bMarksmanship>14</bMarksmanship>
 		<bExplosive>0</bExplosive>
-		<bLeadership>4</bLeadership>
+		<bLeadership>2</bLeadership>
 		<bMedical>2</bMedical>
-		<bMechanical>13</bMechanical>
+		<bMechanical>5</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
@@ -14226,9 +14226,9 @@
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
-		<bRace>0</bRace>
+		<bRace>1</bRace>
 		<bNationality>18</bNationality>
-		<bAppearance>0</bAppearance>
+		<bAppearance>3</bAppearance>
 		<bAppearanceCareLevel>0</bAppearanceCareLevel>
 		<bRefinement>0</bRefinement>
 		<bRefinementCareLevel>0</bRefinementCareLevel>
@@ -14241,21 +14241,21 @@
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
-		<usOptionalGearCost>1150</usOptionalGearCost>
-		<bArmourAttractiveness>20</bArmourAttractiveness>
+		<usOptionalGearCost>0</usOptionalGearCost>
+		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>1</fGoodGuy>
 		<usApproachFactorFriendly>100</usApproachFactorFriendly>
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>10</sSectorX>
-		<sSectorY>9</sSectorY>
+		<sSectorX>1</sSectorX>
+		<sSectorY>8</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>0</bTown>
-		<bTownAttachment>42</bTownAttachment>
-		<usBackground>89</usBackground>
+		<bTown>4</bTown>
+		<bTownAttachment>41</bTownAttachment>
+		<usBackground>129</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
 		<GrowthModifierStrength>0</GrowthModifierStrength>
 		<GrowthModifierAgility>0</GrowthModifierAgility>
@@ -14275,10 +14275,10 @@
 		<zNickname>Fredo</zNickname>
 		<ubFaceIndex>130</ubFaceIndex>
 		<usVoiceIndex>130</usVoiceIndex>
-		<usEyesX>17</usEyesX>
-		<usEyesY>31</usEyesY>
-		<usMouthX>17</usMouthX>
-		<usMouthY>54</usMouthY>
+		<usEyesX>21</usEyesX>
+		<usEyesY>27</usEyesY>
+		<usMouthX>21</usMouthX>
+		<usMouthY>46</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
@@ -14357,8 +14357,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>1</sSectorX>
-		<sSectorY>8</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>4</bTown>
@@ -16144,13 +16144,12 @@
 		<bMedical>2</bMedical>
 		<bMechanical>67</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<fRegresses>0</fRegresses>
+		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bNewSkillTrait4>0</bNewSkillTrait4>
 		<bBuddy1>255</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
@@ -16200,17 +16199,6 @@
 		<bTown>6</bTown>
 		<bTownAttachment>39</bTownAttachment>
 		<usBackground>147</usBackground>
-		<GrowthModifierLife>0</GrowthModifierLife>
-		<GrowthModifierStrength>0</GrowthModifierStrength>
-		<GrowthModifierAgility>0</GrowthModifierAgility>
-		<GrowthModifierDexterity>0</GrowthModifierDexterity>
-		<GrowthModifierWisdom>0</GrowthModifierWisdom>
-		<GrowthModifierMarksmanship>0</GrowthModifierMarksmanship>
-		<GrowthModifierExplosive>0</GrowthModifierExplosive>
-		<GrowthModifierLeadership>0</GrowthModifierLeadership>
-		<GrowthModifierMedical>0</GrowthModifierMedical>
-		<GrowthModifierMechanical>0</GrowthModifierMechanical>
-		<GrowthModifierExpLevel>0</GrowthModifierExpLevel>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>148</uiIndex>
@@ -16543,10 +16531,10 @@
 		<zNickname>Herve</zNickname>
 		<ubFaceIndex>151</ubFaceIndex>
 		<usVoiceIndex>151</usVoiceIndex>
-		<usEyesX>24</usEyesX>
-		<usEyesY>28</usEyesY>
+		<usEyesX>21</usEyesX>
+		<usEyesY>24</usEyesY>
 		<usMouthX>22</usMouthX>
-		<usMouthY>54</usMouthY>
+		<usMouthY>46</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
@@ -16625,8 +16613,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>13</sSectorX>
-		<sSectorY>3</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
@@ -16651,10 +16639,10 @@
 		<zNickname>Peter</zNickname>
 		<ubFaceIndex>152</ubFaceIndex>
 		<usVoiceIndex>152</usVoiceIndex>
-		<usEyesX>24</usEyesX>
-		<usEyesY>28</usEyesY>
+		<usEyesX>21</usEyesX>
+		<usEyesY>24</usEyesY>
 		<usMouthX>22</usMouthX>
-		<usMouthY>54</usMouthY>
+		<usMouthY>46</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
@@ -16733,8 +16721,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>13</sSectorX>
-		<sSectorY>4</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
@@ -16841,8 +16829,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>6</sSectorX>
-		<sSectorY>3</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>7</bTown>
@@ -16949,8 +16937,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>5</sSectorX>
-		<sSectorY>4</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>7</bTown>

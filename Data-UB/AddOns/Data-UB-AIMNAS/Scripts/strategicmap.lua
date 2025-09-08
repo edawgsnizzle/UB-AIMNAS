@@ -671,7 +671,7 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 				end
 				
 				-- general store
-				CreateCivilian(85537, 0, 41, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				CreateCivilian(85536, 0, 41, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
 					
 			end
 			
@@ -680,31 +680,41 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 		
 			if ( currenthour > 7 and currenthour < 20 ) then
 			
-				-- wine store
 				-- general store - both traders use the same inventory
 				CreateCivilian(84739, 0, 42, Bodytype.DRESSCIV, Vest.GREYVEST, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(12878, 0, 42, Bodytype.DRESSCIV, Vest.YELLOWVEST, Pants.BLUEPANTS, -1, -1, -1, -1, -1, -1)
 			
 			end
 			
-		-- Sardena F14
+		-- Sardena CBD F14
 		elseif ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_F) then
 		
 			if ( currenthour > 8 and currenthour < 20 ) then
 			
-				-- wine store
-				CreateCivilian(63226, 0, 57, Bodytype.MANCIV, Vest.JEANVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(16055, 0, 57, Bodytype.REGFEMALE, Vest.JEANVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
-				-- armour store
-				CreateCivilian(55323, 0, 67, Bodytype.MINICIV, Vest.WHITEVEST, -1, Hair.WHITEHEAD, -1, -1, -1, -1, -1)
-				-- restaurant
-				CreateCivilian(65004, 0, 49, Bodytype.MINICIV, Vest.GYELLOWSHIRT, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
-				-- Bar
-				CreateCivilian(74701, 0, 59, Bodytype.MANCIV, Vest.GYELLOWSHIRT, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
 				-- general store
-				CreateCivilian(71427, 0, 43, Bodytype.DRESSCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				--CreateCivilian(70326, 0, 43, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				CreateCivilian(73206, 0, 43, Bodytype.DRESSCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				-- wine stores
+				CreateCivilian(57532, 0, 44, Bodytype.MANCIV, Vest.JEANVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
+				CreateCivilian(71440, 0, 45, Bodytype.REGFEMALE, Vest.JEANVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
+				-- clothes store
+				CreateCivilian(65813, 0, 46, Bodytype.MINICIV, Vest.WHITEVEST, -1, Hair.WHITEHEAD, -1, -1, -1, -1, -1)
+				-- cafe
+				CreateCivilian(56027, 0, 47, Bodytype.MINICIV, Vest.GYELLOWSHIRT, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
+				-- Bar
+				--CreateCivilian(74701, 0, 48, Bodytype.MANCIV, Vest.GYELLOWSHIRT, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
 				-- gas station
-				CreateCivilian(33646, 0, 51, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				CreateCivilian(45895, 0, 49, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+
+			elseif ( currenthour > 0 and currenthour < 24 ) then
+			
+				-- general store
+				--CreateCivilian(70326, 0, 43, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				--CreateCivilian(73206, 0, 43, Bodytype.DRESSCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				-- Bar
+				CreateCivilian(75064, 0, 48, Bodytype.MANCIV, Vest.GYELLOWSHIRT, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
+				-- gas station
+				CreateCivilian(45895, 0, 49, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
 			
 			end
 			
@@ -713,34 +723,46 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 		
 			if ( currenthour > 7 and currenthour < 22 ) then
 			
-				-- general store
-				--CreateCivilian(12430, 0, 44, Bodytype.BIGMALE, -1, -1, -1, -1, -1, -1, -1, -1)
 				-- Cafe
-				CreateCivilian(48377, 0, 53, Bodytype.MINICIV, -1, -1, -1, -1, -1, -1, -1, -1)
-				-- tool shop
-				--CreateCivilian(8362, 0, 61, Bodytype.REGFEMALE, -1, -1, -1, -1, -1, -1, -1, -1)
+				CreateCivilian(48377, 0, 50, Bodytype.MINICIV, -1, -1, -1, -1, -1, -1, -1, -1)
 			
 			end
 			
-		-- E14 Airport
+		-- Sardena Airport E14
 		elseif ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_E) then
 		
-			if ( currenthour > 7 and currenthour < 19 ) then
+			if ( currenthour > 0 and currenthour < 24 ) then
 			
-				-- Bar cafe
-				CreateCivilian(65037, 0, 53, Bodytype.MANCIV, Vest.GYELLOWSHIRT, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
+				-- Terminal cafe
+				CreateCivilian(56358, 0, 51, Bodytype.MANCIV, Vest.GYELLOWSHIRT, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
 				
 			end
 
-		-- Hospital G14	
+		-- Sardena Hospital G14	
 		elseif ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_G) then
 		
 			if ( currenthour > 7 and currenthour < 22 ) then
 			
 				-- cafe
-				CreateCivilian(37972, 0, 52, Bodytype.MINICIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				CreateCivilian(38692, 0, 52, Bodytype.MINICIV, -1, -1, -1, -1, -1, -1, -1, -1)
 				-- hospital cafe
-				CreateCivilian(90551, 0, 54, Bodytype.MINICIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				CreateCivilian(90191, 0, 53, Bodytype.MINICIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				
+			end
+
+		-- Sardena Industrial F15	
+		elseif ( sSectorX == 15 and sSectorY == SectorY.MAP_ROW_F) then
+		
+			if ( currenthour > 0 and currenthour < 24 ) then
+			
+				-- Gas Station
+				CreateCivilian(101320, 0, 54, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				-- Bar
+				CreateCivilian(91646, 0, 55, Bodytype.FATCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				-- Takeaway Store
+				CreateCivilian(88022, 0, 56, Bodytype.MINICIV, -1, -1, -1, -1, -1, -1, -1, -1)
+				-- Liquor Store
+				--CreateCivilian(71847, 0, 57, Bodytype.FATCIV, -1, -1, -1, -1, -1, -1, -1, -1)
 				
 			end
 			

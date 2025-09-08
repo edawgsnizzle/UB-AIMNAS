@@ -63,6 +63,16 @@
 		<allowedtile>6</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Crate</szTileSetDisplayName>
+		<szTileSetName>CRATE.sti</szTileSetName>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
 		<szTileSetDisplayName>Barrel</szTileSetDisplayName>
 		<szTileSetName>2DRUMS.sti</szTileSetName>
 		<allowedtile>6</allowedtile>
@@ -86,6 +96,14 @@
 	<STRUCTURE><!--  -->
 		<szTileSetDisplayName>Tire</szTileSetDisplayName>
 		<szTileSetName>dump.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Tire</szTileSetDisplayName>
+		<szTileSetName>dump1.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>
 		<allowedtile>2</allowedtile>
@@ -177,6 +195,138 @@
 		<allowedtile>7</allowedtile>
 		<allowedtile>12</allowedtile>
 		<allowedtile>13</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>CM_furniture1.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>10</allowedtile>
+		<allowedtile>13</allowedtile>
+		<allowedtile>14</allowedtile>
+		<allowedtile>19</allowedtile>
+		<allowedtile>20</allowedtile>
+		<allowedtile>21</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>CM_hosfurn1.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>22</allowedtile>
+		<allowedtile>23</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>hosfurn2.sti</szTileSetName>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+		<allowedtile>10</allowedtile>
+		<allowedtile>11</allowedtile>
+		<allowedtile>12</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>hosworks.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>14</allowedtile>
+		<allowedtile>15</allowedtile>
+		<allowedtile>18</allowedtile>
+		<allowedtile>19</allowedtile>
+		<allowedtile>20</allowedtile>
+		<allowedtile>21</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>furniture2.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>12</allowedtile>
+		<allowedtile>13</allowedtile>
+		<allowedtile>16</allowedtile>
+		<allowedtile>17</allowedtile>
+		<allowedtile>18</allowedtile>
+		<allowedtile>19</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>hosfurn3.sti</szTileSetName>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>CM_O_FURN2.STI</szTileSetName>
+		<allowedtile>9</allowedtile>
+		<allowedtile>10</allowedtile>
+		<allowedtile>11</allowedtile>
+		<allowedtile>13</allowedtile>
+		<allowedtile>14</allowedtile>
+		<allowedtile>17</allowedtile>
+		<allowedtile>18</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>CBDfurn.STI</szTileSetName>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>13</allowedtile>
+		<allowedtile>14</allowedtile>
+		<allowedtile>15</allowedtile>
+		<allowedtile>20</allowedtile>
+		<allowedtile>21</allowedtile>
+		<allowedtile>22</allowedtile>
+		<allowedtile>23</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>CBDfurn2.STI</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>12</allowedtile>
+		<allowedtile>13</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>airfurn1.STI</szTileSetName>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>15</allowedtile>
+		<allowedtile>20</allowedtile>
+		<allowedtile>21</allowedtile>
+		<allowedtile>22</allowedtile>
+		<allowedtile>23</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>SHIPPING.STI</szTileSetName>
+		<allowedtile>12</allowedtile>
+		<allowedtile>16</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Barrel -->
 		<szTileSetDisplayName>Barrel</szTileSetDisplayName>
@@ -310,6 +460,16 @@
 		<allowedtile>10</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
+		<szTileSetName>lawles3b.sti</szTileSetName>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
 		<szTileSetDisplayName>Barrel</szTileSetDisplayName>
 		<szTileSetName>I_CRATES.sti</szTileSetName>
 		<allowedtile>23</allowedtile>
@@ -361,6 +521,12 @@
 		<allowedtile>1</allowedtile>
 		<allowedtile>2</allowedtile>
 		<allowedtile>3</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!--  -->
+		<szTileSetDisplayName>Gas Cylinder</szTileSetDisplayName>
+		<szTileSetName>AIRGAS.STI</szTileSetName>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!--  -->
 		<szTileSetDisplayName>Furniture</szTileSetDisplayName>
@@ -518,5 +684,24 @@
 		<allowedtile>9</allowedtile>
 		<allowedtile>10</allowedtile>
 		<allowedtile>19</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- bin -->
+		<szTileSetDisplayName>Bin</szTileSetDisplayName>
+		<szTileSetName>NEWGAS.STI</szTileSetName>
+		<allowedtile>7</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- misc -->
+		<szTileSetDisplayName>Misc</szTileSetDisplayName>
+		<szTileSetName>Vehicle1.STI</szTileSetName>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- misc -->
+		<szTileSetDisplayName>Misc</szTileSetDisplayName>
+		<szTileSetName>URBAN01.STI</szTileSetName>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 </STRUCTURESLIST>
