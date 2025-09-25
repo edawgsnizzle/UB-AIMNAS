@@ -44,6 +44,10 @@ Changes require starting of a new game.
 		<Composition>0</Composition>
 	</GARRISON>
 	<GARRISON>
+		<Sector>F15</Sector>
+		<Composition>0</Composition>
+	</GARRISON>
+	<GARRISON>
 		<Sector>G14</Sector>
 		<Composition>0</Composition>
 	</GARRISON>
@@ -53,14 +57,6 @@ Changes require starting of a new game.
 	</GARRISON>
 	<GARRISON>
 		<Sector>J13</Sector>
-		<Composition>0</Composition>
-	</GARRISON>
-	<GARRISON>
-		<Sector>K14</Sector>
-		<Composition>0</Composition>
-	</GARRISON>
-	<GARRISON>
-		<Sector>K15</Sector>
 		<Composition>0</Composition>
 	</GARRISON>
 </GARRISON_INFO>

@@ -459,12 +459,12 @@ local JohnKulbaText = true
 		o = math.random(1, 2)
 		if o == 1 then
 			-- F8 - Imposter
-			AddNPCtoSector( Profil.Imposter, 8, SectorY.MAP_ROW_F, 0 )
-			AddAltSectorNew( 8, SectorY.MAP_ROW_F )
+			AddNPCtoSector( Profil.Imposter, 11, SectorY.MAP_ROW_E, 0 )
+			AddAltSectorNew( 11, SectorY.MAP_ROW_E )
 		elseif o == 2 then
 			-- E10 - Imposter
-			AddNPCtoSector( Profil.Imposter, 10, SectorY.MAP_ROW_E, 0 )
-			AddAltSectorNew( 10, SectorY.MAP_ROW_E )
+			AddNPCtoSector( Profil.Imposter, 15, SectorY.MAP_ROW_G, 0 )
+			AddAltSectorNew( 15, SectorY.MAP_ROW_G )
 		end
 	end
 
@@ -604,10 +604,10 @@ AddProfileToMap (UB_GetManuelID(),9,9,0,71458) -- get id from UB_Options.ini
 AddProfileToMap (UB_GetBiggensID(),13,9,0,71121) -- get id from UB_Options.ini
 AddProfileToMap (UB_GetBettyID(),13,6,0,54548) -- get id from UB_Options.ini
 AddProfileToMap (UB_GetRaulID(),11,9,0,59930) -- get id from UB_Options.ini
-AddProfileToMap (UB_GetMorrisID(),15,12,3,14752) -- get id from UB_Options.ini
-AddProfileToMap (UB_GetRudyID(),13,10,0,77220) -- get id from UB_Options.ini
+AddProfileToMap (UB_GetMorrisID(),9,4,3,14752) -- get id from UB_Options.ini
+AddProfileToMap (UB_GetRudyID(),10,6,0,53093) -- get id from UB_Options.ini
 SetFactTrue( 220 ) -- Set Manny to bartender
-SetFactTrue( 224 ) -- Set Hummer
+--SetFactTrue( 224 ) -- Set Hummer
 
 -- Add test UB profiles
 --[[
@@ -886,7 +886,7 @@ if ( Test == false ) then
 		UB_SetNumberJa25EnemiesInSurfaceSector( 12,10, ubNumAdmins, ubNumTroops, ubNumElites )
 
 	-- Power Generator, Ground Level
-	-- J13
+	-- F10
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 22 + math.random( 1, 6 )
@@ -905,10 +905,10 @@ if ( Test == false ) then
 				ubNumElites = 21 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 13,10, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 10,6, ubNumAdmins, ubNumTroops, ubNumElites )
 
 	-- Complex, Ground Level
-	-- K15
+	-- D9
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 17 + math.random( 1, 5 )
@@ -916,21 +916,21 @@ if ( Test == false ) then
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 20 + math.random( 1, 3 )
-				ubNumElites = 4 + math.random( 1, 2 )
+				ubNumElites = 7 + math.random( 1, 2 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0 
-				ubNumTroops = 19 + math.random( 1, 3 )
-				ubNumElites = 8 + math.random( 1, 2 )
+				ubNumTroops = 29 + math.random( 1, 3 )
+				ubNumElites = 16 + math.random( 1, 2 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 				ubNumAdmins = 0 
-				ubNumTroops = 19 + math.random( 1, 3 )
-				ubNumElites = 8 + math.random( 1, 2 )
+				ubNumTroops = 29 + math.random( 1, 3 )
+				ubNumElites = 26 + math.random( 1, 2 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 15,11, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 9,4, ubNumAdmins, ubNumTroops, ubNumElites )
 
 	-- South SAM, Ground Level
-	-- K14
+	-- J14
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 14 + math.random( 1, 5 )
@@ -949,48 +949,26 @@ if ( Test == false ) then
 				ubNumElites = 8 + math.random( 1, 2 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 14,11, ubNumAdmins, ubNumTroops, ubNumElites )
-
-	-- North SAM Site, Ground Level
-	-- F10
-		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
-				ubNumAdmins = 0 
-				ubNumTroops = 15 + math.random( 1, 6 )
-				ubNumElites = 1 
-		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
-				ubNumAdmins = 0 
-				ubNumTroops = 16 + math.random( 1, 5 )
-				ubNumElites = 5 + math.random( 1, 2 )
-		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
-				ubNumAdmins = 0 
-				ubNumTroops = 18 + math.random( 1, 4 )
-				ubNumElites = 6 + math.random( 1, 3 )
-		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
-				ubNumAdmins = 0 
-				ubNumTroops = 18 + math.random( 1, 4 )
-				ubNumElites = 7 + math.random( 1, 3 )
-		end
-
-		UB_SetNumberJa25EnemiesInSurfaceSector( 10,6, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 14,10, ubNumAdmins, ubNumTroops, ubNumElites )
 
 	-- Passage to North SAM, Ground Level
 	-- F11
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
-				ubNumTroops = 6 + math.random( 1, 3 )
+				ubNumTroops = 16 + math.random( 1, 3 )
 				ubNumElites = 0 
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
-				ubNumTroops = 8 + math.random( 1, 2 )
-				ubNumElites = 2 + math.random( 1, 2 )
+				ubNumTroops = 18 + math.random( 1, 2 )
+				ubNumElites = 10 + math.random( 1, 2 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0
-				ubNumTroops = 10 + math.random( 1, 4 )
-				ubNumElites = 4 + math.random( 1, 3 )
+				ubNumTroops = 15 + math.random( 1, 4 )
+				ubNumElites = 14 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 				ubNumAdmins = 0 
-				ubNumTroops = 20 + math.random( 1, 4 )
-				ubNumElites = 2 + math.random( 1, 3 )
+				ubNumTroops = 12 + math.random( 1, 4 )
+				ubNumElites = 20 + math.random( 1, 3 )
 		end
 
 		UB_SetNumberJa25EnemiesInSurfaceSector( 11,6, ubNumAdmins, ubNumTroops, ubNumElites )
@@ -1080,6 +1058,27 @@ if ( Test == false ) then
 
 		UB_SetNumberJa25EnemiesInSurfaceSector( 14,6, ubNumAdmins, ubNumTroops, ubNumElites )
 
+			-- F15
+		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
+				ubNumAdmins = 0
+				ubNumTroops = 5 + math.random( 1, 6 )
+				ubNumElites = 0
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
+				ubNumAdmins = 0
+				ubNumTroops = 10 + math.random( 1, 4 )
+				ubNumElites = 1 + math.random( 1, 3 )
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
+				ubNumAdmins = 0
+				ubNumTroops = 14 + math.random( 1, 4 )
+				ubNumElites = 5 + math.random( 1, 3 )
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
+				ubNumAdmins = 0
+				ubNumTroops = 20 + math.random( 1, 4 )
+				ubNumElites = 5 + math.random( 1, 3 )
+		end
+
+		UB_SetNumberJa25EnemiesInSurfaceSector( 15,6, ubNumAdmins, ubNumTroops, ubNumElites )
+
 		-- G14
 			if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
@@ -1100,6 +1099,69 @@ if ( Test == false ) then
 		end
 
 		UB_SetNumberJa25EnemiesInSurfaceSector( 14,7, ubNumAdmins, ubNumTroops, ubNumElites )
+
+		-- K14
+		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0 
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		end
+
+		UB_SetNumberJa25EnemiesInSurfaceSector( 14,11, ubNumAdmins, ubNumTroops, ubNumElites )
+
+		-- K15
+		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0 
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		end
+
+		UB_SetNumberJa25EnemiesInSurfaceSector( 15,11, ubNumAdmins, ubNumTroops, ubNumElites )
+
+		-- J13
+		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0 
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
+				ubNumAdmins = 0 
+				ubNumTroops = 0
+				ubNumElites = 0
+		end
+
+		UB_SetNumberJa25EnemiesInSurfaceSector( 13,10, ubNumAdmins, ubNumTroops, ubNumElites )
 		
 end
 

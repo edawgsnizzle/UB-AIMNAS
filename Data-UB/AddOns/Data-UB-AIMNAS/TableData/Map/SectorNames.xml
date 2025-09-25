@@ -275,10 +275,10 @@
   </SECTOR>
   <SECTOR>
     <SectorGrid>B2</SectorGrid>
-    <szUnexploredName>Chitzena Mine</szUnexploredName>
-    <szDetailedUnexploredName>Chitzena Mine</szDetailedUnexploredName>
-    <szExploredName>Chitzena Mine</szExploredName>
-    <szDetailedExploredName>Chitzena Mine</szDetailedExploredName>
+    <szUnexploredName>Impassable</szUnexploredName>
+    <szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
+    <szExploredName>Impassable</szExploredName>
+    <szDetailedExploredName>Impassable</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>250</usNaturalDirt>
     <usPrisonRoomNumber>3</usPrisonRoomNumber>
@@ -753,21 +753,22 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>D9</SectorGrid>
-    <szUnexploredName>Plains, road</szUnexploredName>
-    <szDetailedUnexploredName>Plains, road</szDetailedUnexploredName>
-    <szExploredName>Plains, road</szExploredName>
-    <szDetailedExploredName>Plains, road</szDetailedExploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+    <szExploredName>Complex</szExploredName>
+    <szDetailedExploredName>Complex</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
- 	<rainchance>0</rainchance>
+ 	<rainchance>50</rainchance>
 	<sandstormchance>0</sandstormchance>
+  <snowchance>5</snowchance>
   </SECTOR>
    <SECTOR>
     <SectorGrid>D10</SectorGrid>
-    <szUnexploredName>Plains</szUnexploredName>
-    <szDetailedUnexploredName>Plains</szDetailedUnexploredName>
-    <szExploredName>Plains</szExploredName>
-    <szDetailedExploredName>Plains</szDetailedExploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+    <szExploredName>Unknown</szExploredName>
+    <szDetailedExploredName>Unknown</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
  	<rainchance>0</rainchance>
@@ -946,10 +947,10 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>E9</SectorGrid>
-    <szUnexploredName>Woods</szUnexploredName>
-    <szDetailedUnexploredName>Woods</szDetailedUnexploredName>
-    <szExploredName>Woods</szExploredName>
-    <szDetailedExploredName>Woods</szDetailedExploredName>
+    <szUnexploredName>Mountains</szUnexploredName>
+    <szDetailedUnexploredName>Mountains</szDetailedUnexploredName>
+    <szExploredName>Mountains</szExploredName>
+    <szDetailedExploredName>Mountains</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
  	<rainchance>60</rainchance>
@@ -958,10 +959,10 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>E10</SectorGrid>
-    <szUnexploredName>Woods</szUnexploredName>
-    <szDetailedUnexploredName>Woods</szDetailedUnexploredName>
-    <szExploredName>Woods</szExploredName>
-    <szDetailedExploredName>Woods</szDetailedExploredName>
+    <szUnexploredName>Unknown</szUnexploredName>
+    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+    <szExploredName>Unknown</szExploredName>
+    <szDetailedExploredName>Unknown</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>500</usNaturalDirt>
  	<rainchance>70</rainchance>
@@ -1026,10 +1027,10 @@
   </SECTOR> 
    <SECTOR>
     <SectorGrid>E15</SectorGrid>
-    <szUnexploredName>Forest, road</szUnexploredName>
-    <szDetailedUnexploredName>Forest, road</szDetailedUnexploredName>
-    <szExploredName>Forest, road</szExploredName>
-    <szDetailedExploredName>Forest, road</szDetailedExploredName>
+    <szUnexploredName>Woods</szUnexploredName>
+    <szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+    <szExploredName>Woods</szExploredName>
+    <szDetailedExploredName>Woods</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>175</usNaturalDirt>
  	<rainchance>30</rainchance>
@@ -1105,10 +1106,10 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>F6</SectorGrid>
-    <szUnexploredName>Hills</szUnexploredName>
-    <szDetailedUnexploredName>Hills</szDetailedUnexploredName>
-    <szExploredName>Hills</szExploredName>
-    <szDetailedExploredName>Hills</szDetailedExploredName>
+    <szUnexploredName>Impassable</szUnexploredName>
+    <szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
+    <szExploredName>Impassable</szExploredName>
+    <szDetailedExploredName>Impassable</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>130</usNaturalDirt>
  	<rainchance>40</rainchance>
@@ -1144,10 +1145,10 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>F9</SectorGrid>
-    <szUnexploredName>Woods</szUnexploredName>
-    <szDetailedUnexploredName>Woods</szDetailedUnexploredName>
-    <szExploredName>Woods</szExploredName>
-    <szDetailedExploredName>Woods</szDetailedExploredName>
+    <szUnexploredName>Mountains</szUnexploredName>
+    <szDetailedUnexploredName>Mountains</szDetailedUnexploredName>
+    <szExploredName>Mountains</szExploredName>
+    <szDetailedExploredName>Mountains</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
  	<rainchance>55</rainchance>
@@ -1161,8 +1162,8 @@
     <SectorGrid>F10</SectorGrid>
     <szUnexploredName>Woods</szUnexploredName>
     <szDetailedUnexploredName>Woods</szDetailedUnexploredName>
-    <szExploredName>Woods, SAM Site</szExploredName>
-    <szDetailedExploredName>Woods, SAM Site</szDetailedExploredName>
+    <szExploredName>Power Plant</szExploredName>
+    <szDetailedExploredName>Power Plant</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
     <usCivilianPopulation>0</usCivilianPopulation>
@@ -1844,10 +1845,10 @@
   </SECTOR>
     <SECTOR>
     <SectorGrid>I14</SectorGrid>
-    <szUnexploredName>Alma Mine</szUnexploredName>
-    <szDetailedUnexploredName>Alma Mine</szDetailedUnexploredName>
-    <szExploredName>Alma Mine</szExploredName>
-    <szDetailedExploredName>Alma Mine</szDetailedExploredName>
+    <szUnexploredName>Mountains</szUnexploredName>
+    <szDetailedUnexploredName>Mountains</szDetailedUnexploredName>
+    <szExploredName>Mountains</szExploredName>
+    <szDetailedExploredName>Mountains</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCivilianPopulation>200</usCivilianPopulation>
@@ -1978,10 +1979,10 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>J9</SectorGrid>
-    <szUnexploredName>Desert</szUnexploredName>
-    <szDetailedUnexploredName>Desert</szDetailedUnexploredName>
-    <szExploredName>Tixa</szExploredName>
-    <szDetailedExploredName>Tixa</szDetailedExploredName>
+    <szUnexploredName>Impassable</szUnexploredName>
+    <szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
+    <szExploredName>Impassable</szExploredName>
+    <szDetailedExploredName>Impassable</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>1000</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
@@ -2046,10 +2047,10 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>J13</SectorGrid>
-    <szUnexploredName>Unknown</szUnexploredName>
-    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
-    <szExploredName>Power Plant</szExploredName>
-    <szDetailedExploredName>Power Plant</szDetailedExploredName>
+    <szUnexploredName>Jacana</szUnexploredName>
+    <szDetailedUnexploredName>Jacana</szDetailedUnexploredName>
+    <szExploredName>Jacana</szExploredName>
+    <szDetailedExploredName>Jacana</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
  	<rainchance>30</rainchance>
@@ -2058,14 +2059,12 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>J14</SectorGrid>
-    <szUnexploredName>Impassable</szUnexploredName>
-    <szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
-    <szExploredName>Impassable</szExploredName>
-    <szDetailedExploredName>Impassable</szDetailedExploredName>
+    <szUnexploredName>Mountains</szUnexploredName>
+    <szDetailedUnexploredName>Mountains</szDetailedUnexploredName>
+    <szExploredName>Mountain SAM</szExploredName>
+    <szDetailedExploredName>Mountain SAM</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>175</usNaturalDirt>
-    <usCivilianPopulation>10</usCivilianPopulation>
-	<wealth>1</wealth>
  	<rainchance>30</rainchance>
 	<sandstormchance>0</sandstormchance>
   </SECTOR>
@@ -2253,8 +2252,8 @@
     <SectorGrid>K14</SectorGrid>
     <szUnexploredName>Mountains</szUnexploredName>
     <szDetailedUnexploredName>Mountains</szDetailedUnexploredName>
-    <szExploredName>Mountain SAM</szExploredName>
-    <szDetailedExploredName>Mountain SAM</szDetailedExploredName>
+    <szExploredName>Mountains</szExploredName>
+    <szDetailedExploredName>Mountains</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
  	<rainchance>35</rainchance>
@@ -2263,10 +2262,10 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>K15</SectorGrid>
-    <szUnexploredName>Unknown</szUnexploredName>
-    <szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
-    <szExploredName>Complex</szExploredName>
-    <szDetailedExploredName>Complex</szDetailedExploredName>
+    <szUnexploredName>Mountains</szUnexploredName>
+    <szDetailedUnexploredName>Mountains</szDetailedUnexploredName>
+    <szExploredName>Mountains</szExploredName>
+    <szDetailedExploredName>Mountains</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>190</usNaturalDirt>
  	<rainchance>40</rainchance>
@@ -2401,10 +2400,10 @@
   </SECTOR>
    <SECTOR>
     <SectorGrid>L11</SectorGrid>
-    <szUnexploredName>Balime</szUnexploredName>
-    <szDetailedUnexploredName>Balime</szDetailedUnexploredName>
-    <szExploredName>Balime</szExploredName>
-    <szDetailedExploredName>Balime</szDetailedExploredName>
+    <szUnexploredName>Impassable</szUnexploredName>
+    <szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
+    <szExploredName>Impassable</szExploredName>
+    <szDetailedExploredName>Impassable</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCivilianPopulation>150</usCivilianPopulation>

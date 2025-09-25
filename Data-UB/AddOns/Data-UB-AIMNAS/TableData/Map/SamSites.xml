@@ -49,19 +49,19 @@ Others not.
 		<SAM>
 			<samIndex>1</samIndex>
 			<samSector>
-				<x>14</x>
-				<y>11</y>
+				<x>9</x>
+				<y>4</y>
 			</samSector>
 			<samHidden>1</samHidden>
 			<samOrientation>3</samOrientation>
-			<samGridNoA>77584</samGridNoA>
-			<samGridNoB>77585</samGridNoB>
+			<samGridNoA>64959</samGridNoA>
+			<samGridNoB>64960</samGridNoB>
 		</SAM>
 		<SAM>
 			<samIndex>2</samIndex>
 			<samSector>
-				<x>10</x>
-				<y>6</y>
+				<x>14</x>
+				<y>10</y>
 			</samSector>
 			<samHidden>1</samHidden>
 			<samOrientation>3</samOrientation>
@@ -71,8 +71,8 @@ Others not.
 		<SAM>
 			<samIndex>3</samIndex>
 			<samSector>
-				<x>14</x>
-				<y>11</y>
+				<x>9</x>
+				<y>4</y>
 			</samSector>
 			<samHidden>1</samHidden>
 			<samOrientation>3</samOrientation>
@@ -82,8 +82,8 @@ Others not.
 		<SAM>
 			<samIndex>4</samIndex>
 			<samSector>
-				<x>10</x>
-				<y>6</y>
+				<x>9</x>
+				<y>4</y>
 			</samSector>
 			<samHidden>1</samHidden>
 			<samOrientation>3</samOrientation>
@@ -95,21 +95,21 @@ Others not.
 		<!-- Column index: 0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 -->
 		<!-- 									 -->
 		<MAP_ROW row="00"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </MAP_ROW>
-		<MAP_ROW row="01"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </MAP_ROW>
-		<MAP_ROW row="02"> 0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0 </MAP_ROW>
-		<MAP_ROW row="03"> 0  0  0  0  0  0  0  0  0  2  2  2  0  0  0  0  0  0 </MAP_ROW>
-		<MAP_ROW row="04"> 0  0  0  0  0  0  0  0  2  2  2  2  2  0  0  0  0  0 </MAP_ROW>
-		<MAP_ROW row="05"> 0  0  0  0  0  0  0  2  2  2  2  2  2  2  0  0  0  0 </MAP_ROW>
-		<MAP_ROW row="06"> 0  0  0  0  0  0  2  2  2  2  2  2  2  2  2  0  0  0 </MAP_ROW>
-		<MAP_ROW row="07"> 0  0  0  0  0  0  0  2  2  2  2  2  2  2  1  0  0  0 </MAP_ROW>
-		<MAP_ROW row="08"> 0  0  0  0  0  0  0  0  2  2  2  2  2  1  1  1  0  0 </MAP_ROW>
-		<MAP_ROW row="09"> 0  0  0  0  0  0  0  0  0  2  2  2  1  1  1  1  1  0 </MAP_ROW>
-		<MAP_ROW row="10"> 0  0  0  0  0  0  0  0  0  0  2  1  1  1  1  1  1  0 </MAP_ROW>
-		<MAP_ROW row="11"> 0  0  0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  0 </MAP_ROW>
-		<MAP_ROW row="12"> 0  0  0  0  0  0  0  0  0  0  0  1  1  1  1  1  1  0 </MAP_ROW>
-		<MAP_ROW row="13"> 0  0  0  0  0  0  0  0  0  0  0  0  1  1  1  1  1  0 </MAP_ROW>
-		<MAP_ROW row="14"> 0  0  0  0  0  0  0  0  0  0  0  0  0  1  1  1  0  0 </MAP_ROW>
-		<MAP_ROW row="15"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0 </MAP_ROW>
+		<MAP_ROW row="01"> 0  0  0  0  0  0  0  1  1  1  1  1  0  0  0  0  0  0 </MAP_ROW>
+		<MAP_ROW row="02"> 0  0  0  0  0  0  1  1  1  1  1  1  1  0  0  0  0  0 </MAP_ROW>
+		<MAP_ROW row="03"> 0  0  0  0  0  1  1  1  1  1  1  1  1  1  0  0  0  0 </MAP_ROW>
+		<MAP_ROW row="04"> 0  0  0  0  0  1  1  1  1  1  1  1  1  1  0  0  0  0 </MAP_ROW>
+		<MAP_ROW row="05"> 0  0  0  0  0  1  1  1  1  1  1  1  1  1  0  0  0  0 </MAP_ROW>
+		<MAP_ROW row="06"> 0  0  0  0  0  0  1  1  1  1  1  1  1  2  2  2  0  0 </MAP_ROW>
+		<MAP_ROW row="07"> 0  0  0  0  0  0  0  1  1  1  1  1  2  2  2  2  2  0 </MAP_ROW>
+		<MAP_ROW row="08"> 0  0  0  0  0  0  0  0  1  1  1  2  2  2  2  2  2  0 </MAP_ROW>
+		<MAP_ROW row="09"> 0  0  0  0  0  0  0  0  0  1  2  2  2  2  2  2  2  0 </MAP_ROW>
+		<MAP_ROW row="10"> 0  0  0  0  0  0  0  0  0  0  2  2  2  2  2  2  2  0 </MAP_ROW>
+		<MAP_ROW row="11"> 0  0  0  0  0  0  0  0  0  0  2  2  2  2  2  2  2  0 </MAP_ROW>
+		<MAP_ROW row="12"> 0  0  0  0  0  0  0  0  0  0  0  2  2  2  2  2  2  0 </MAP_ROW>
+		<MAP_ROW row="13"> 0  0  0  0  0  0  0  0  0  0  0  0  2  2  2  2  2  0 </MAP_ROW>
+		<MAP_ROW row="14"> 0  0  0  0  0  0  0  0  0  0  0  0  0  2  2  2  0  0 </MAP_ROW>
+		<MAP_ROW row="15"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </MAP_ROW>
 		<MAP_ROW row="16"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </MAP_ROW>
 		<MAP_ROW row="17"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </MAP_ROW>
 	</SAM_CONTROLLED_SECTORS>

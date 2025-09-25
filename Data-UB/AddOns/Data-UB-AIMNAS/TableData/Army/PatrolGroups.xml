@@ -65,18 +65,18 @@ Changes require starting of a new game.
 		<Size>15</Size>
 		<Priority>0</Priority>
 		<Waypoints>
-			<Sector1>E8</Sector1>
-			<Sector2>E14</Sector2>
-			<Sector3>G14</Sector3>
-			<Sector4>0</Sector4>
+			<Sector1>E11</Sector1>
+			<Sector2>E15</Sector2>
+			<Sector3>G15</Sector3>
+			<Sector4>G12</Sector4>
 		</Waypoints>
 	</PATROL>
 	<PATROL>
 		<Size>12</Size>
 		<Priority>0</Priority>
 		<Waypoints>
-			<Sector1>E8</Sector1>
-			<Sector2>F8</Sector2>
+			<Sector1>E11</Sector1>
+			<Sector2>F11</Sector2>
 			<Sector3>F12</Sector3>
 			<Sector4>E12</Sector4>
 		</Waypoints>

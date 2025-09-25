@@ -9,15 +9,71 @@
 -->
 
 <SECTORFACILITIES>
+	<!-- COMPLEX -->
+	<FACILITY>
+		<SectorGrid>D9</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
 	<!-- SAM SITES -->
 	<FACILITY>
-		<SectorGrid>F10</SectorGrid>
+		<SectorGrid>D9</SectorGrid>
 		<FacilityType>26</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 	<FACILITY>
-		<SectorGrid>K14</SectorGrid>
+		<SectorGrid>J14</SectorGrid>
 		<FacilityType>26</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<!-- GUARD POST -->
+	<FACILITY>
+		<SectorGrid>H9</SectorGrid>
+		<FacilityType>19</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H9</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<!-- ABANDONED MINE -->
+	<FACILITY>
+		<SectorGrid>I13</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	<!-- JACANA -->
+	<FACILITY>
+		<SectorGrid>J13</SectorGrid>
+		<FacilityType>16</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<!-- POWERPLANT -->
+	<FACILITY>
+		<SectorGrid>F10</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<!-- VARREZ -->
+	<FACILITY>
+		<SectorGrid>I10</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I11</SectorGrid>
+		<FacilityType>21</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I11</SectorGrid>
+		<FacilityType>22</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>I11</SectorGrid>
+		<FacilityType>25</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 		<!-- SARDENA -->
@@ -93,11 +149,6 @@
 	</FACILITY>
 	<FACILITY>
 		<SectorGrid>F15</SectorGrid>
-		<FacilityType>16</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>F15</SectorGrid>
 		<FacilityType>24</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
@@ -114,56 +165,6 @@
 	<FACILITY>
 		<SectorGrid>G14</SectorGrid>
 		<FacilityType>27</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<!-- GUARD POST -->
-	<FACILITY>
-		<SectorGrid>H9</SectorGrid>
-		<FacilityType>19</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>H9</SectorGrid>
-		<FacilityType>24</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<!-- VARREZ -->
-	<FACILITY>
-		<SectorGrid>I10</SectorGrid>
-		<FacilityType>20</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>I11</SectorGrid>
-		<FacilityType>21</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>I11</SectorGrid>
-		<FacilityType>22</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>I11</SectorGrid>
-		<FacilityType>25</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<!-- COMPLEX -->
-	<FACILITY>
-		<SectorGrid>K15</SectorGrid>
-		<FacilityType>7</FacilityType>
-		<ubHidden>1</ubHidden>
-	</FACILITY>
-	<!-- ABANDONED MINE -->
-	<FACILITY>
-		<SectorGrid>I13</SectorGrid>
-		<FacilityType>11</FacilityType>
-		<ubHidden>0</ubHidden>
-	</FACILITY>
-	<!-- POWERPLANT -->
-	<FACILITY>
-		<SectorGrid>J13</SectorGrid>
-		<FacilityType>23</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 </SECTORFACILITIES>

@@ -62,7 +62,7 @@ Changes do not require starting of a new game.
 		</CITY>
 		<CITY>
 			<uiIndex>2</uiIndex>
-			<townName> </townName>
+			<townName>Jacana</townName>
 			<townUsesLoyalty>0</townUsesLoyalty>
 			<townRebelSentiment>0</townRebelSentiment>
 			<townMilitiaAllowed>0</townMilitiaAllowed>
@@ -75,11 +75,11 @@ Changes do not require starting of a new game.
 			</iconPosition>
 			<baseSector>
 				<x>13</x>
-				<y>9</y>
+				<y>10</y>
 			</baseSector>
 			<townPoint>
-				<x>130</x>
-				<y>90</y>
+				<x>125</x>
+				<y>101</y>
 			</townPoint>
 		</CITY>
 		<CITY>
@@ -118,7 +118,7 @@ Changes do not require starting of a new game.
 		<CITY_TABLE_ROW row="07"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  3  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="08"> 0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="09"> 0  0  0  0  0  0  0  0  0  0  1  1  0  2  0  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="10"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="10"> 0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="11"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="12"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="13"> 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>

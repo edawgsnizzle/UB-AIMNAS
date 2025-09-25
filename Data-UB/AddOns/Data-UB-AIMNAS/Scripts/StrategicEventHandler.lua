@@ -450,7 +450,7 @@ function HandleEarlyMorningEvents()
 
 		SetMiscFlags2(Profil.CARMEN, Flags2.PROFILE_MISC_FLAG2_DONT_ADD_TO_SECTOR)
 	
-		-- Move Carmen to C13
+		-- Move Carmen to i11
 		AddNPCtoSector (Profil.CARMEN,11,9,0) 
 
 		-- We should also reset # of terrorist heads and give him cash
@@ -478,15 +478,17 @@ function HandleEarlyMorningEvents()
 		CARMENid,CARMENx,CARMENy,CARMENz = CheckNPCinSector(Profil.CARMEN)
 		if ( CARMENx ~= gWorldSectorX or CARMENy ~= gWorldSectorY ) then
 			
-			i = math.random(1, 4)
+			i = math.random(1, 5)
 			if i == 1 then
 				AddNPCtoSector (Profil.CARMEN,13,6,0) -- F13
 			elseif i == 2 then
 				AddNPCtoSector (Profil.CARMEN,11,9,0) -- I11
 			elseif i == 3 then
 				AddNPCtoSector (Profil.CARMEN,14,6,0) -- F14
-			elseif i == 3 then
-				AddNPCtoSector (Profil.CARMEN,14,5,0) -- G9
+			elseif i == 4 then
+				AddNPCtoSector (Profil.CARMEN,14,5,0) -- E14
+			elseif i == 5 then
+				AddNPCtoSector (Profil.CARMEN,13,10,0) -- J13
 			end
 		
 			-- He should have $5000... unless the player forgot to meet him

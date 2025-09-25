@@ -581,8 +581,8 @@
 		<szLocation>D9</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
+		<szDay>Loadscreens\LS_MissleDay</szDay>
+		<szNight>Loadscreens\LS_MissleNight</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -590,9 +590,9 @@
 		<uiIndex>58</uiIndex>
 		<szLocation>D10</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_RiverDay</szDay>
+		<szNight>Loadscreens\LS_RiverNight</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -751,11 +751,11 @@
 		<uiIndex>74</uiIndex>
 		<szLocation>E10</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayWild</szDay>
-		<szNight>Loadscreens\LS_NightWild</szNight>
-		<szDayAlt>Loadscreens\LS_DayWild</szDayAlt>
-		<szNightAlt>Loadscreens\LS_NightWild</szNightAlt>	
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_RiverDay</szDay>
+		<szNight>Loadscreens\LS_RiverNight</szNight>
+		<szDayAlt>Loadscreens\LS_RiverDay</szDayAlt>
+		<szNightAlt>Loadscreens\LS_RiverNight</szNightAlt>	
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>75</uiIndex>
@@ -803,8 +803,8 @@
 		<szLocation>E15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
+		<szDay>Loadscreens\LS_DayForest</szDay>
+		<szNight>Loadscreens\LS_NightForest</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -913,9 +913,9 @@
 		<uiIndex>90</uiIndex>
 		<szLocation>F10</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DaySam</szDay>
-		<szNight>Loadscreens\LS_NightSam</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_NewPowerPlantDay</szDay>
+		<szNight>Loadscreens\LS_NewPowerPlantNight</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -923,9 +923,9 @@
 		<uiIndex>91</uiIndex>
 		<szLocation>F11</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayWild</szDay>
-		<szNight>Loadscreens\LS_NightWild</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_CrossingDay</szDay>
+		<szNight>Loadscreens\LS_CrossingNight</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -1125,8 +1125,8 @@
 		<szLocation>G15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
+		<szDay>Loadscreens\LS_DayForest</szDay>
+		<szNight>Loadscreens\LS_NightForest</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -1588,18 +1588,18 @@
 		<szLocation>J13</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_PowerPlantDay</szDay>
-		<szNight>Loadscreens\LS_PowerPlantNight</szNight>
-		<szDayAlt></szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szDay>Loadscreens\LS_JunkyardDay</szDay>
+		<szNight>Loadscreens\LS_JunkyardNight</szNight>
+		<szDayAlt>Loadscreens\LS_JunkyardDay</szDayAlt>
+		<szNightAlt>Loadscreens\LS_JunkyardNight</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>158</uiIndex>
 		<szLocation>J14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
+		<szDay>Loadscreens\LS_DaySam</szDay>
+		<szNight>Loadscreens\LS_NightSam</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -1758,9 +1758,9 @@
 		<uiIndex>174</uiIndex>
 		<szLocation>K14</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DaySam</szDay>
-		<szNight>Loadscreens\LS_NightSam</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_Mountains1Day</szDay>
+		<szNight>Loadscreens\LS_Mountains1Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>	
 	</SECTOR>
@@ -1768,9 +1768,9 @@
 		<uiIndex>175</uiIndex>
 		<szLocation>K15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_MissleDay</szDay>
-		<szNight>Loadscreens\LS_MissleNight</szNight>
+		<szImageFormat>PNG</szImageFormat>
+		<szDay>Loadscreens\LS_Mountains2Day</szDay>
+		<szNight>Loadscreens\LS_Mountains2Night</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>

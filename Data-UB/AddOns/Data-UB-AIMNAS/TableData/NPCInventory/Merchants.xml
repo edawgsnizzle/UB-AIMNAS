@@ -1414,15 +1414,15 @@ uiFlags must be of
 	</MERCHANT>
 	<MERCHANT>
 		<uiIndex>58</uiIndex>
-		<szName>wine store Grumm (H1)</szName>     <!-- 39 -->
+		<szName>Bar Jacana (J13)</szName>     <!-- 39 -->
 		<dBuyModifier>1.0</dBuyModifier>
-		<dSellModifier>1.0</dSellModifier>
+		<dSellModifier>1.5</dSellModifier>
 		<ubShopKeeperID>200</ubShopKeeperID>
 		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
-		<iInitialCash>250</iInitialCash>
+		<iInitialCash>10000</iInitialCash>
 		<uiFlags>268435456</uiFlags>
-		<dailyIncrement>250</dailyIncrement>
-		<dailyMaximum>250</dailyMaximum>
+		<dailyIncrement>500</dailyIncrement>
+		<dailyMaximum>4000</dailyMaximum>
 		<dailyRetained>0</dailyRetained>
 		<minCoolness>1</minCoolness>
 		<maxCoolness>10</maxCoolness>
@@ -1431,12 +1431,12 @@ uiFlags must be of
 		<daysDelayMin>1</daysDelayMin>
 		<daysDelayMax>2</daysDelayMax>
 		<useBRSetting>0</useBRSetting>
-		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
-		<nonprofile_loyaltyrequired>20</nonprofile_loyaltyrequired>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>
 	</MERCHANT>
 	<MERCHANT>
 		<uiIndex>59</uiIndex>
-		<szName>bar Sardena (F14)</szName>     <!-- 40 -->
+		<szName>General Store Jacana (J13)</szName>     <!-- 40 -->
 		<dBuyModifier>1.0</dBuyModifier>
 		<dSellModifier>1.0</dSellModifier>
 		<ubShopKeeperID>200</ubShopKeeperID>

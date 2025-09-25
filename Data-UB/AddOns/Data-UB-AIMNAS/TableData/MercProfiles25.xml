@@ -9933,7 +9933,7 @@
 		<sSectorY>9</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>0</bTown>
+		<bTown>1</bTown>
 		<bTownAttachment>42</bTownAttachment>
 		<usBackground>89</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -10797,7 +10797,7 @@
 		<sSectorY>5</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>2</bTown>
+		<bTown>3</bTown>
 		<bTownAttachment>27</bTownAttachment>
 		<usBackground>97</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -11013,7 +11013,7 @@
 		<sSectorY>5</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>2</bTown>
+		<bTown>3</bTown>
 		<bTownAttachment>34</bTownAttachment>
 		<usBackground>99</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -11445,7 +11445,7 @@
 		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>6</bTown>
+		<bTown>3</bTown>
 		<bTownAttachment>39</bTownAttachment>
 		<usBackground>103</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -11643,7 +11643,7 @@
 		<bHatedNationality>-1</bHatedNationality>
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
-		<bSexist>3</bSexist>
+		<bSexist>0</bSexist>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
@@ -11661,7 +11661,7 @@
 		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>9</bTown>
+		<bTown>3</bTown>
 		<bTownAttachment>16</bTownAttachment>
 		<usBackground>105</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -12521,11 +12521,11 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>15</sSectorX>
-		<sSectorY>6</sSectorY>
+		<sSectorX>13</sSectorX>
+		<sSectorY>10</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>12</ubCivilianGroup>
-		<bTown>3</bTown>
+		<bTown>2</bTown>
 		<bTownAttachment>38</bTownAttachment>
 		<usBackground>113</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -13605,7 +13605,7 @@
 		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>11</bTown>
+		<bTown>3</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>123</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -13713,7 +13713,7 @@
 		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>11</bTown>
+		<bTown>3</bTown>
 		<bTownAttachment>18</bTownAttachment>
 		<usBackground>124</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -13821,7 +13821,7 @@
 		<sSectorY>7</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>11</bTown>
+		<bTown>3</bTown>
 		<bTownAttachment>40</bTownAttachment>
 		<usBackground>125</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>
@@ -17585,8 +17585,8 @@
 		<usApproachFactorDirect>0</usApproachFactorDirect>
 		<usApproachFactorThreaten>0</usApproachFactorThreaten>
 		<usApproachFactorRecruit>0</usApproachFactorRecruit>
-		<sSectorX>13</sSectorX>
-		<sSectorY>5</sSectorY>
+		<sSectorX>0</sSectorX>
+		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
@@ -21794,8 +21794,8 @@
 		<usApproachFactorDirect>0</usApproachFactorDirect>
 		<usApproachFactorThreaten>0</usApproachFactorThreaten>
 		<usApproachFactorRecruit>0</usApproachFactorRecruit>
-		<sSectorX>10</sSectorX>
-		<sSectorY>1</sSectorY>
+		<sSectorX>13</sSectorX>
+		<sSectorY>10</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>

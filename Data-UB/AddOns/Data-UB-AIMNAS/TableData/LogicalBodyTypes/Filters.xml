@@ -1114,7 +1114,7 @@
 	</Filter>
 	<Filter name="HasSaiga12kInHand">
 		<AND>
-			<HANDPOS op="in">32, 5636, 5643, 5644, 5645, 5646, 5647, 5648, 5649, 5650</HANDPOS>
+			<HANDPOS op="in">32, 4902, 5636, 5643, 5644, 5645, 5646, 5647, 5648, 5649, 5650</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSPAS12InHand">
@@ -1324,7 +1324,7 @@
 	</Filter>
 	<Filter name="HasM16A4InHand">
 		<AND>
-			<HANDPOS op="in">632, 762</HANDPOS>
+			<HANDPOS op="in">5032, 5033</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasC7InHand">
@@ -1374,7 +1374,7 @@
 	</Filter>
 	<Filter name="HasXCRInHand">
 		<AND>
-			<HANDPOS op="in">797</HANDPOS>
+			<HANDPOS op="in">5066</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSR47InHand">
@@ -1746,12 +1746,12 @@
 	</Filter>
 	<Filter name="HasHEZIInHand">
 		<AND>
-			<HANDPOS op="in">1074</HANDPOS>
+			<HANDPOS op="in">4934</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasCalicoRifleInHand">
 		<AND>
-			<HANDPOS op="in">68</HANDPOS>
+			<HANDPOS op="in">68, 5096</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasCX4StormInHand">
@@ -1771,7 +1771,7 @@
 	</Filter>
 	<Filter name="HasGarandInHand">
 		<AND>
-			<HANDPOS op="in">683</HANDPOS>
+			<HANDPOS op="in">5073</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasBeowulfInHand">
@@ -1897,167 +1897,167 @@
 	</Filter>
 	<Filter name="HasGalilSniperInHand">
 		<AND>
-			<HANDPOS op="in">1069</HANDPOS>
+			<HANDPOS op="in">4925</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasM21InHand">
 		<AND>
-			<HANDPOS op="in">19, 4919, 4921, 4927</HANDPOS>
+			<HANDPOS op="in">4917</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasM21EBRInHand">
 		<AND>
-			<HANDPOS op="in">897</HANDPOS>
+			<HANDPOS op="in">4918, 5028</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasC7CTInHand">
 		<AND>
-			<HANDPOS op="in">769</HANDPOS>
+			<HANDPOS op="in">4901, 4906</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasMSG90InHand">
 		<AND>
-			<HANDPOS op="in">674</HANDPOS>
+			<HANDPOS op="in">4916</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSR25InHand">
 		<AND>
-			<HANDPOS op="in">630</HANDPOS>
+			<HANDPOS op="in">4904, 4913, 4935</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasM76InHand">
 		<AND>
-			<HANDPOS op="in">753</HANDPOS>
+			<HANDPOS op="in">4928, 4929, 4930, 5010, 5061</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSVUInHand">
 		<AND>
-			<HANDPOS op="in">735</HANDPOS>
+			<HANDPOS op="in">5006, 5007, 5009</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasWA2000InHand">
 		<AND>
-			<HANDPOS op="in">746</HANDPOS>
+			<HANDPOS op="in">4926, 5044</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasFRF2InHand">
 		<AND>
-			<HANDPOS op="in">654</HANDPOS>
+			<HANDPOS op="in">4915, 4936</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSteyrScoutInHand">
 		<AND>
-			<HANDPOS op="in">728</HANDPOS>
+			<HANDPOS op="in">4922</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSSGP1InHand">
 		<AND>
-			<HANDPOS op="in">729</HANDPOS>
+			<HANDPOS op="in">4923</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasM501InHand">
 		<AND>
-			<HANDPOS op="in">625</HANDPOS>
+			<HANDPOS op="in">4905, 4912</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasR93InHand">
 		<AND>
-			<HANDPOS op="in">778</HANDPOS>
+			<HANDPOS op="in">4927, 5042, 5072</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasM24InHand">
 		<AND>
-			<HANDPOS op="in">19</HANDPOS>
+			<HANDPOS op="in">19, 5071</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasM40A1InHand">
 		<AND>
-			<HANDPOS op="in">685</HANDPOS>
+			<HANDPOS op="in">4919, 5084</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasTRG22InHand">
 		<AND>
-			<HANDPOS op="in">709</HANDPOS>
+			<HANDPOS op="in">4921, 5045</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasCZ700InHand">
 		<AND>
-			<HANDPOS op="in">634</HANDPOS>
+			<HANDPOS op="in">4914</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasParkerHaleInHand">
 		<AND>
-			<HANDPOS op="in">698</HANDPOS>
+			<HANDPOS op="in">4920</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasR1InHand">
 		<AND>
-			<HANDPOS op="in">777</HANDPOS>
+			<HANDPOS op="in">5041</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSOShortyInHand">
 		<AND>
-			<HANDPOS op="in">779</HANDPOS>
+			<HANDPOS op="in">4924, 4952, 5043, 5097</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSV98InHand">
 		<AND>
-			<HANDPOS op="in">733</HANDPOS>
+			<HANDPOS op="in">5008</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasAWMInHand">
 		<AND>
-			<HANDPOS op="in">618</HANDPOS>
+			<HANDPOS op="in">4932, 4933, 5021, 5022, 5023</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSR100InHand">
 		<AND>
-			<HANDPOS op="in">640</HANDPOS>
+			<HANDPOS op="in">5026</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasM98InHand">
 		<AND>
-			<HANDPOS op="in">620</HANDPOS>
+			<HANDPOS op="in">4903, 5024, 5083</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasDSR1InHand">
 		<AND>
-			<HANDPOS op="in">639</HANDPOS>
+			<HANDPOS op="in">5025</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasM82A2InHand">
 		<AND>
-			<HANDPOS op="in">335</HANDPOS>
+			<HANDPOS op="in">4961</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasKSVKInHand">
 		<AND>
-			<HANDPOS op="in">657, 682</HANDPOS>
+			<HANDPOS op="in">4962, 4963, 4964, 5076, 5077</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasOSVInHand">
 		<AND>
-			<HANDPOS op="in">697</HANDPOS>
+			<HANDPOS op="in">4966, 4971, 4973, 4974, 4986, 4987</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSL9SDInHand">
 		<AND>
-			<HANDPOS op="in">676</HANDPOS>
+			<HANDPOS op="in">5031</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasVSSVintorezInHand">
 		<AND>
-			<HANDPOS op="in">333</HANDPOS>
+			<HANDPOS op="in">4991</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasVSK94InHand">
 		<AND>
-			<HANDPOS op="in">745</HANDPOS>
+			<HANDPOS op="in">4992, 4993</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasVSSKInHand">
 		<AND>
-			<HANDPOS op="in">774</HANDPOS>
+			<HANDPOS op="in">4965, 4981, 4982, 4983, 5081</HANDPOS>
 		</AND>
 	</Filter>
 <!-- Unused
@@ -2069,22 +2069,22 @@
 -->
 	<Filter name="HasDragunovInHand">
 		<AND>
-			<HANDPOS op="in">18, 4928, 4929, 4930, 5002, 5003, 5004, 5005, 5006, 5007, 5010</HANDPOS>
+			<HANDPOS op="in">18, 4951</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSVDSInHand">
 		<AND>
-			<HANDPOS op="in">734</HANDPOS>
+			<HANDPOS op="in">5002, 5003, 5004, 5005, 5091</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasPSG1InHand">
 		<AND>
-			<HANDPOS op="in">4911, 4915, 4916, 4918</HANDPOS>
+			<HANDPOS op="in">4911</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasPatriotInHand">
 		<AND>
-			<HANDPOS op="in">4813, 4912, 4917, 4920</HANDPOS>
+			<HANDPOS op="in">5051, 5093, 5100</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSniperInHand">

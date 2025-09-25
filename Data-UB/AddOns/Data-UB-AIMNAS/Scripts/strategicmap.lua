@@ -530,29 +530,24 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 	if ( fHasEverBeenPlayerControlled == false ) then
 		-- surface sectors
 		if ( bSectorZ == 0 ) then
-			-- F10 Central SAM
-			if ( sSectorX == 10 and sSectorY == SectorY.MAP_ROW_F ) then
-				CreateCivilian(80103, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(74020, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(79045, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
-			-- K14 Rocket Facility SAM
-			elseif ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_K ) then
+			-- J14 Mountain SAM
+			if ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_J ) then
 				CreateCivilian(74658, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
 				CreateCivilian(65331, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGFEMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(64594, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
-			-- J13 Power Station
-			elseif ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_J ) then
-				CreateCivilian(64984, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGFEMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(74699, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
-				CreateCivilian(66771, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
-				CreateCivilian(65726, CivGroup.FACTORY_GROUP, -1, Bodytype.REGMALE, Vest.YELLOWVEST, Pants.TANPANTS, -1, -1, -1, -1, -1, -1)
-			-- K15 Complex Surface
-			elseif ( sSectorX == 15 and sSectorY == SectorY.MAP_ROW_K ) then
-				CreateCivilian(56327, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(67491, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(68256, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
-				CreateCivilian(61782, CivGroup.SCIENTIST_GROUP, -1, Bodytype.MANCIV, Vest.WHITEVEST, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
-				CreateCivilian(65714, CivGroup.ADMINISTRATIVE_STAFF_GROUP, -1, Bodytype.DRESSCIV, Vest.PURPLESHIRT, Pants.BLUEPANTS, Hair.WHITEHEAD, -1, -1, -1, -1, -1)
+				CreateCivilian(63881, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
+			-- F10 Power Station
+			elseif ( sSectorX == 10 and sSectorY == SectorY.MAP_ROW_F ) then
+				CreateCivilian(40503, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGFEMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
+				CreateCivilian(39769, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
+				CreateCivilian(50573, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
+				CreateCivilian(41912, CivGroup.FACTORY_GROUP, -1, Bodytype.REGMALE, Vest.YELLOWVEST, Pants.TANPANTS, -1, -1, -1, -1, -1, -1)
+			-- D9 Complex Surface
+			elseif ( sSectorX == 9 and sSectorY == SectorY.MAP_ROW_D ) then
+				CreateCivilian(66037, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
+				CreateCivilian(85109, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
+				CreateCivilian(87292, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
+				CreateCivilian(84678, CivGroup.SCIENTIST_GROUP, -1, Bodytype.MANCIV, Vest.WHITEVEST, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
+				--CreateCivilian(85834, CivGroup.ADMINISTRATIVE_STAFF_GROUP, -1, Bodytype.DRESSCIV, Vest.PURPLESHIRT, Pants.BLUEPANTS, Hair.WHITEHEAD, -1, -1, -1, -1, -1)
 			-- E13 Sardena Barracks
 			elseif ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_E ) then
 				CreateCivilian(54508, CivGroup.ADMINISTRATIVE_STAFF_GROUP, -1, Bodytype.MINICIV, Vest.GREENVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
@@ -774,6 +769,18 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 				-- restaurant
 				--CreateCivilian(63899, 0, 51, Bodytype.MINICIV, -1, -1, -1, -1, -1, -1, -1, -1)
 				
+			end
+
+		-- Jacana J13
+		elseif ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_J) then
+
+			if ( currenthour > 0 and currenthour < 24 ) then
+			
+				-- Bar
+				CreateCivilian(76857, 0, 58, Bodytype.MANCIV, Vest.GYELLOWSHIRT, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
+				-- general store
+				CreateCivilian(85486, 0, 59, Bodytype.DRESSCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+			
 			end
 			
 		-- San Mona

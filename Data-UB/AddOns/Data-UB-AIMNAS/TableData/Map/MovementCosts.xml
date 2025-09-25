@@ -576,22 +576,20 @@ Possible values for Here tag:
 			<BadSector>1</BadSector>
 		</Sector>
 		<Sector y="D" x="9">
-			<TravelRating>0</TravelRating>
+			<TravelRating>7</TravelRating>
 			<North>EDGEOFWORLD</North>
-			<East>EDGEOFWORLD</East>
+			<East>GROUNDBARRIER</East>
 			<South>EDGEOFWORLD</South>
 			<West>EDGEOFWORLD</West>
-			<Here>EDGEOFWORLD</Here>
-			<BadSector>1</BadSector>
+			<Here>DENSE</Here>
 		</Sector>
 		<Sector y="D" x="10">
 			<TravelRating>0</TravelRating>
 			<North>EDGEOFWORLD</North>
-			<East>EDGEOFWORLD</East>
-			<South>EDGEOFWORLD</South>
-			<West>EDGEOFWORLD</West>
-			<Here>EDGEOFWORLD</Here>
-			<BadSector>1</BadSector>
+			<East>GROUNDBARRIER</East>
+			<South>GROUNDBARRIER</South>
+			<West>GROUNDBARRIER</West>
+			<Here>GROUNDBARRIER</Here>
 		</Sector>
 		<Sector y="D" x="11">
 			<TravelRating>0</TravelRating>
@@ -713,33 +711,35 @@ Possible values for Here tag:
 		<Sector y="E" x="8">
 			<TravelRating>0</TravelRating>
 			<North>EDGEOFWORLD</North>
-			<East>DENSE</East>
-			<South>DENSE</South>
+			<East>EDGEOFWORLD</East>
+			<South>EDGEOFWORLD</South>
 			<West>EDGEOFWORLD</West>
-			<Here>DENSE</Here>
+			<Here>EDGEOFWORLD</Here>
+			<BadSector>1</BadSector>
 		</Sector>
 		<Sector y="E" x="9">
 			<TravelRating>0</TravelRating>
 			<North>EDGEOFWORLD</North>
-			<East>DENSE</East>
-			<South>DENSE</South>
-			<West>DENSE</West>
-			<Here>DENSE</Here>
+			<East>EDGEOFWORLD</East>
+			<South>EDGEOFWORLD</South>
+			<West>EDGEOFWORLD</West>
+			<Here>EDGEOFWORLD</Here>
+			<BadSector>1</BadSector>
 		</Sector>
 		<Sector y="E" x="10">
 			<TravelRating>0</TravelRating>
-			<North>EDGEOFWORLD</North>
-			<East>DENSE</East>
-			<South>DENSE</South>
-			<West>DENSE</West>
-			<Here>NS_RIVER</Here>
+			<North>GROUNDBARRIER</North>
+			<East>GROUNDBARRIER</East>
+			<South>GROUNDBARRIER</South>
+			<West>GROUNDBARRIER</West>
+			<Here>GROUNDBARRIER</Here>
 		</Sector>
 		<Sector y="E" x="11">
 			<TravelRating>0</TravelRating>
 			<North>EDGEOFWORLD</North>
 			<East>DENSE</East>
 			<South>DENSE</South>
-			<West>DENSE</West>
+			<West>GROUNDBARRIER</West>
 			<Here>DENSE</Here>
 		</Sector>
 		<Sector y="E" x="12">
@@ -761,7 +761,7 @@ Possible values for Here tag:
 		<Sector y="E" x="14">
 			<TravelRating>0</TravelRating>
 			<North>EDGEOFWORLD</North>
-			<East>EDGEOFWORLD</East>
+			<East>DENSE</East>
 			<South>TOWN</South>
 			<West>TOWN</West>
 			<Here>TOWN</Here>
@@ -770,10 +770,9 @@ Possible values for Here tag:
 			<TravelRating>0</TravelRating>
 			<North>EDGEOFWORLD</North>
 			<East>EDGEOFWORLD</East>
-			<South>EDGEOFWORLD</South>
-			<West>EDGEOFWORLD</West>
-			<Here>EDGEOFWORLD</Here>
-			<BadSector>1</BadSector>
+			<South>DENSE</South>
+			<West>DENSE</West>
+			<Here>DENSE</Here>
 		</Sector>
 		<Sector y="E" x="16">
 			<TravelRating>0</TravelRating>
@@ -849,43 +848,45 @@ Possible values for Here tag:
 		</Sector>
 		<Sector y="F" x="8">
 			<TravelRating>0</TravelRating>
-			<North>DENSE</North>
-			<East>DENSE</East>
-			<South>GROUNDBARRIER</South>
+			<North>EDGEOFWORLD</North>
+			<East>EDGEOFWORLD</East>
+			<South>EDGEOFWORLD</South>
 			<West>EDGEOFWORLD</West>
-			<Here>DENSE</Here>
+			<Here>EDGEOFWORLD</Here>
+			<BadSector>1</BadSector>
 		</Sector>
 		<Sector y="F" x="9">
 			<TravelRating>0</TravelRating>
-			<North>DENSE</North>
-			<East>DENSE</East>
-			<South>GROUNDBARRIER</South>
-			<West>DENSE</West>
-			<Here>DENSE</Here>
+			<North>EDGEOFWORLD</North>
+			<East>EDGEOFWORLD</East>
+			<South>EDGEOFWORLD</South>
+			<West>EDGEOFWORLD</West>
+			<Here>EDGEOFWORLD</Here>
+			<BadSector>1</BadSector>
 		</Sector>
 		<Sector y="F" x="10">
 			<TravelRating>0</TravelRating>
-			<North>DENSE</North>
-			<East>SPARSE</East>
+			<North>GROUNDBARRIER</North>
+			<East>ROAD</East>
 			<South>GROUNDBARRIER</South>
-			<West>DENSE</West>
-			<Here>DENSE</Here>
+			<West>EDGEOFWORLD</West>
+			<Here>SPARSE_ROAD</Here>
 		</Sector>
 		<Sector y="F" x="11">
 			<TravelRating>0</TravelRating>
 			<North>DENSE</North>
-			<East>SPARSE</East>
+			<East>ROAD</East>
 			<South>GROUNDBARRIER</South>
-			<West>SPARSE</West>
+			<West>ROAD</West>
 			<Here>NS_RIVER</Here>
 		</Sector>
 		<Sector y="F" x="12">
 			<TravelRating>0</TravelRating>
 			<North>SPARSE</North>
 			<East>DENSE</East>
-			<South>DENSE</South>
-			<West>SPARSE</West>
-			<Here>DENSE</Here>
+			<South>ROAD</South>
+			<West>ROAD</West>
+			<Here>DENSE_ROAD</Here>
 		</Sector>
 		<Sector y="F" x="13">
 			<TravelRating>0</TravelRating>
@@ -905,9 +906,9 @@ Possible values for Here tag:
 		</Sector>
 		<Sector y="F" x="15">
 			<TravelRating>0</TravelRating>
-			<North>EDGEOFWORLD</North>
+			<North>DENSE</North>
 			<East>EDGEOFWORLD</East>
-			<South>EDGEOFWORLD</South>
+			<South>DENSE</South>
 			<West>TOWN</West>
 			<Here>TOWN</Here>
 		</Sector>
@@ -985,7 +986,7 @@ Possible values for Here tag:
 		</Sector>
 		<Sector y="G" x="8">
 			<TravelRating>0</TravelRating>
-			<North>GROUNDBARRIER</North>
+			<North>EDGEOFWORLD</North>
 			<East>SPARSE</East>
 			<South>SPARSE</South>
 			<West>EDGEOFWORLD</West>
@@ -993,7 +994,7 @@ Possible values for Here tag:
 		</Sector>
 		<Sector y="G" x="9">
 			<TravelRating>0</TravelRating>
-			<North>GROUNDBARRIER</North>
+			<North>EDGEOFWORLD</North>
 			<East>GROUNDBARRIER</East>
 			<South>SPARSE</South>
 			<West>SPARSE</West>
@@ -1019,7 +1020,7 @@ Possible values for Here tag:
 		</Sector>
 		<Sector y="G" x="12">
 			<TravelRating>0</TravelRating>
-			<North>DENSE</North>
+			<North>ROAD</North>
 			<East>ROAD</East>
 			<South>ROAD</South>
 			<West>GROUNDBARRIER</West>
@@ -1036,19 +1037,18 @@ Possible values for Here tag:
 		<Sector y="G" x="14">
 			<TravelRating>0</TravelRating>
 			<North>TOWN</North>
-			<East>EDGEOFWORLD</East>
+			<East>DENSE</East>
 			<South>EDGEOFWORLD</South>
 			<West>DENSE</West>
 			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="G" x="15">
 			<TravelRating>0</TravelRating>
-			<North>EDGEOFWORLD</North>
+			<North>DENSE</North>
 			<East>EDGEOFWORLD</East>
 			<South>EDGEOFWORLD</South>
-			<West>EDGEOFWORLD</West>
-			<Here>EDGEOFWORLD</Here>
-			<BadSector>1</BadSector>
+			<West>DENSE</West>
+			<Here>DENSE</Here>
 		</Sector>
 		<Sector y="G" x="16">
 			<TravelRating>0</TravelRating>
@@ -1305,7 +1305,7 @@ Possible values for Here tag:
 			<TravelRating>10</TravelRating>
 			<North>GROUNDBARRIER</North>
 			<East>EDGEOFWORLD</East>
-			<South>ROAD</South>
+			<South>TOWN</South>
 			<West>ROAD</West>
 			<Here>TOWN</Here>
 		</Sector>
@@ -1443,19 +1443,19 @@ Possible values for Here tag:
 		</Sector>
 		<Sector y="J" x="13">
 			<TravelRating>12</TravelRating>
-			<North>ROAD</North>
+			<North>TOWN</North>
 			<East>GROUNDBARRIER</East>
 			<South>EDGEOFWORLD</South>
 			<West>SPARSE</West>
-			<Here>SPARSE_ROAD</Here>
+			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="J" x="14">
 			<TravelRating>50</TravelRating>
-			<North>GROUNDBARRIER</North>
-			<East>GROUNDBARRIER</East>
-			<South>GROUNDBARRIER</South>
+			<North>EDGEOFWORLD</North>
+			<East>EDGEOFWORLD</East>
+			<South>EDGEOFWORLD</South>
 			<West>GROUNDBARRIER</West>
-			<Here>GROUNDBARRIER</Here>
+			<Here>SPARSE</Here>
 		</Sector>
 		<Sector y="J" x="15">
 			<TravelRating>0</TravelRating>
