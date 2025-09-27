@@ -965,9 +965,9 @@
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>PNG</szImageFormat>
 		<szDay>Loadscreens\LS_JunkyardDay</szDay>
-		<szNight>Loadscreens\LS_JunkyardNight</szNight>
+		<szNight>Loadscreens\LS_IndustrialNight</szNight>
 		<szDayAlt>Loadscreens\LS_JunkyardDay</szDayAlt>
-		<szNightAlt>Loadscreens\LS_JunkyardNight</szNightAlt>	
+		<szNightAlt>Loadscreens\LS_IndustrialNight</szNightAlt>	
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>96</uiIndex>
