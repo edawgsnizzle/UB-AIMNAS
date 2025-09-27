@@ -478,7 +478,7 @@ function HandleEarlyMorningEvents()
 		CARMENid,CARMENx,CARMENy,CARMENz = CheckNPCinSector(Profil.CARMEN)
 		if ( CARMENx ~= gWorldSectorX or CARMENy ~= gWorldSectorY ) then
 			
-			i = math.random(1, 5)
+			i = math.random(1, 4)
 			if i == 1 then
 				AddNPCtoSector (Profil.CARMEN,13,6,0) -- F13
 			elseif i == 2 then
@@ -487,8 +487,6 @@ function HandleEarlyMorningEvents()
 				AddNPCtoSector (Profil.CARMEN,14,6,0) -- F14
 			elseif i == 4 then
 				AddNPCtoSector (Profil.CARMEN,14,5,0) -- E14
-			elseif i == 5 then
-				AddNPCtoSector (Profil.CARMEN,13,10,0) -- J13
 			end
 		
 			-- He should have $5000... unless the player forgot to meet him

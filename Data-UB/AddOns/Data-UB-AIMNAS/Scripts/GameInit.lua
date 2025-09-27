@@ -469,7 +469,7 @@ local JohnKulbaText = true
 	end
 
 	if is_networked == 0 then
-		o = math.random(1, 2)
+		o = math.random(1, 4)
 		if o == 1 then
 			-- H11 - Tiffany
 			AddNPCtoSector( Profil.Tiffany, 11, SectorY.MAP_ROW_H, 0 )
@@ -478,6 +478,14 @@ local JohnKulbaText = true
 			-- E13 - Trex
 			AddNPCtoSector( Profil.Jasmin, 13, SectorY.MAP_ROW_E, 0 )
 			AddAltSectorNew( 13, SectorY.MAP_ROW_E )
+		elseif o == 3 then
+			-- J13 - Trex
+			AddNPCtoSector( Profil.Jasmin, 13, SectorY.MAP_ROW_J, 0 )
+			AddAltSectorNew( 13, SectorY.MAP_ROW_J )
+		elseif o == 4 then
+			-- G14 - Tiffany
+			AddNPCtoSector( Profil.Tiffany, 14, SectorY.MAP_ROW_G, 0 )
+			AddAltSectorNew( 14, SectorY.MAP_ROW_G )
 		end
 	end
 	
