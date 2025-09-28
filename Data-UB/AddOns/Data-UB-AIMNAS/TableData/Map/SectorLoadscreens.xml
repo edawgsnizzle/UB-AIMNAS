@@ -964,9 +964,9 @@
 		<szLocation>F15</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>PNG</szImageFormat>
-		<szDay>Loadscreens\LS_JunkyardDay</szDay>
+		<szDay>Loadscreens\LS_IndustrialDay</szDay>
 		<szNight>Loadscreens\LS_IndustrialNight</szNight>
-		<szDayAlt>Loadscreens\LS_JunkyardDay</szDayAlt>
+		<szDayAlt>Loadscreens\LS_IndustrialDay</szDayAlt>
 		<szNightAlt>Loadscreens\LS_IndustrialNight</szNightAlt>	
 	</SECTOR>
 	<SECTOR>
