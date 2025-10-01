@@ -2026,7 +2026,7 @@
     <szDetailedUnexploredName>Woods</szDetailedUnexploredName>
     <szExploredName>Woods</szExploredName>
     <szDetailedExploredName>Woods</szDetailedExploredName>
-    <sWaterType>0</sWaterType>
+    <sWaterType>1</sWaterType>
     <usNaturalDirt>1000</usNaturalDirt>
     <usCivilianPopulation>5</usCivilianPopulation>
  	<rainchance>50</rainchance>

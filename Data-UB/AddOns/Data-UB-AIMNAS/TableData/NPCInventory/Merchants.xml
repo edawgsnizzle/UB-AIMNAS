@@ -721,10 +721,10 @@ uiFlags must be of
 	</MERCHANT>
 	<MERCHANT>
 		<uiIndex>26</uiIndex>
-		<szName>additional dealer 7</szName>
+		<szName>additional dealer 7 (Karl)</szName>
 		<dBuyModifier>0.8</dBuyModifier>
 		<dSellModifier>1.1</dSellModifier>
-		<ubShopKeeperID>255</ubShopKeeperID>
+		<ubShopKeeperID>125</ubShopKeeperID>
 		<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
 		<iInitialCash>700</iInitialCash>
 		<uiFlags>268435456</uiFlags>
