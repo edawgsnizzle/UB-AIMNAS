@@ -640,7 +640,7 @@ uiFlags must be of
 		<szName>additional dealer 3 (Bernard)</szName>
    	 	<dBuyModifier>2.0</dBuyModifier>
     	<dSellModifier>2.5</dSellModifier>
-    	<ubShopKeeperID>124</ubShopKeeperID>
+    	<ubShopKeeperID>121</ubShopKeeperID>
     	<ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     	<iInitialCash>5000</iInitialCash>
     	<uiFlags>1342177280</uiFlags>

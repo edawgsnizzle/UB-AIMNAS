@@ -13299,24 +13299,24 @@
 	<PROFILE>
 		<uiIndex>121</uiIndex>
 		<Type>4</Type>
-		<zName>Sergeant Krott</zName>
-		<zNickname>Sergeant</zNickname>
+		<zName>Bernard Cunningham</zName>
+		<zNickname>Bernard</zNickname>
 		<ubFaceIndex>121</ubFaceIndex>
 		<usVoiceIndex>121</usVoiceIndex>
-		<usEyesX>22</usEyesX>
-		<usEyesY>29</usEyesY>
-		<usMouthX>22</usMouthX>
-		<usMouthY>55</usMouthY>
+		<usEyesX>20</usEyesX>
+		<usEyesY>14</usEyesY>
+		<usMouthX>21</usMouthX>
+		<usMouthY>47</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>GREENPANTS</PANTS>
-		<VEST>GREENVEST</VEST>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>REDVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
-		<HAIR>BROWNHEAD</HAIR>
+		<HAIR>WHITEHEAD</HAIR>
 		<bSex>0</bSex>
-		<ubBodyType>0</ubBodyType>
+		<ubBodyType>12</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>0</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
@@ -13324,18 +13324,18 @@
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>84</bLifeMax>
-		<bLife>84</bLife>
-		<bStrength>74</bStrength>
-		<bAgility>68</bAgility>
-		<bDexterity>54</bDexterity>
-		<bWisdom>68</bWisdom>
-		<bMarksmanship>53</bMarksmanship>
+		<bLifeMax>74</bLifeMax>
+		<bLife>74</bLife>
+		<bStrength>54</bStrength>
+		<bAgility>48</bAgility>
+		<bDexterity>74</bDexterity>
+		<bWisdom>78</bWisdom>
+		<bMarksmanship>23</bMarksmanship>
 		<bExplosive>4</bExplosive>
-		<bLeadership>5</bLeadership>
+		<bLeadership>15</bLeadership>
 		<bMedical>7</bMedical>
-		<bMechanical>26</bMechanical>
-		<bExpLevel>2</bExpLevel>
+		<bMechanical>46</bMechanical>
+		<bExpLevel>1</bExpLevel>
 		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
@@ -13385,8 +13385,8 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>13</sSectorX>
-		<sSectorY>8</sSectorY>
+		<sSectorX>14</sSectorX>
+		<sSectorY>6</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>3</bTown>
@@ -13623,22 +13623,22 @@
 	<PROFILE>
 		<uiIndex>124</uiIndex>
 		<Type>4</Type>
-		<zName>Bernard Cunningham</zName>
-		<zNickname>Bernard</zNickname>
+		<zName>Franz Hinkle</zName>
+		<zNickname>Franz</zNickname>
 		<ubFaceIndex>124</ubFaceIndex>
 		<usVoiceIndex>124</usVoiceIndex>
-		<usEyesX>20</usEyesX>
-		<usEyesY>14</usEyesY>
-		<usMouthX>21</usMouthX>
-		<usMouthY>47</usMouthY>
+		<usEyesX>23</usEyesX>
+		<usEyesY>30</usEyesY>
+		<usMouthX>22</usMouthX>
+		<usMouthY>54</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS>TANPANTS</PANTS>
-		<VEST>REDVEST</VEST>
+		<PANTS>GREENPANTS</PANTS>
+		<VEST>BROWNVEST</VEST>
 		<SKIN>PINKSKIN</SKIN>
-		<HAIR>WHITEHEAD</HAIR>
+		<HAIR>BROWNHEAD</HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>12</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
@@ -13648,12 +13648,12 @@
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>69</bLifeMax>
+		<bLifeMax>79</bLifeMax>
 		<bLife>79</bLife>
 		<bStrength>59</bStrength>
 		<bAgility>58</bAgility>
 		<bDexterity>71</bDexterity>
-		<bWisdom>84</bWisdom>
+		<bWisdom>78</bWisdom>
 		<bMarksmanship>24</bMarksmanship>
 		<bExplosive>1</bExplosive>
 		<bLeadership>1</bLeadership>
@@ -13687,14 +13687,14 @@
 		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<bRace>0</bRace>
-		<bNationality>3</bNationality>
+		<bNationality>19</bNationality>
 		<bAppearance>0</bAppearance>
-		<bAppearanceCareLevel>1</bAppearanceCareLevel>
+		<bAppearanceCareLevel>0</bAppearanceCareLevel>
 		<bRefinement>2</bRefinement>
-		<bRefinementCareLevel>2</bRefinementCareLevel>
+		<bRefinementCareLevel>1</bRefinementCareLevel>
 		<bHatedNationality>2</bHatedNationality>
-		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
-		<bRacist>1</bRacist>
+		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
+		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>0</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
@@ -13709,11 +13709,11 @@
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>14</sSectorX>
-		<sSectorY>6</sSectorY>
+		<sSectorX>12</sSectorX>
+		<sSectorY>12</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
-		<bTown>3</bTown>
+		<bTown>11</bTown>
 		<bTownAttachment>18</bTownAttachment>
 		<usBackground>124</usBackground>
 		<GrowthModifierLife>0</GrowthModifierLife>

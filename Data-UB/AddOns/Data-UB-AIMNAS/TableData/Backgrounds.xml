@@ -2539,25 +2539,25 @@
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
-	<!-- Sergeant -->
+	<!-- Bernard -->
 	<BACKGROUND>
 		<uiIndex>121</uiIndex>
-		<szName>Sergeant Krott</szName>
-		<szShortName>Sergeant</szShortName>
-		<szDescription>Drafted into the Arulcan Army, this sergeant would rather be at home with his family.</szDescription>
-		<ap_assault>3</ap_assault>
-		<ap_fortify>-3</ap_fortify>
-		<ap_artillery>-2</ap_artillery> 
-		<resistance_physical>3</resistance_physical>
-		<resistance_fear>3</resistance_fear>
-		<resistance_suppression>3</resistance_suppression>
-		<carrystrength>3</carrystrength>
-		<interrogation>50</interrogation>
-		<prisonguard>10</prisonguard>
-		<approach_direct>10</approach_direct>
-		<drink_energyregen>10</drink_energyregen>
-		<capitulation>10</capitulation>
-		<spotter>3</spotter>
+		<szName>Shopkeeper</szName>
+		<szShortName>Shopkeeper</szShortName>
+		<szDescription>For many people, their trade IS trade.</szDescription>
+		<ap_polar>-2</ap_polar>
+		<ap_desert>-2</ap_desert>
+		<ap_swamp>-2</ap_swamp>
+		<ap_urban>3</ap_urban>
+		<ap_river>-2</ap_river>
+		<ap_tropical>-2</ap_tropical>
+		<ap_mountain>-2</ap_mountain>
+		<ap_fortify>10</ap_fortify>
+		<ap_artillery>10</ap_artillery>
+		<ap_airdrop>-5</ap_airdrop>
+		<ap_assault>-5</ap_assault>
+		<betterprices_guns>5</betterprices_guns>
+		<betterprices>15</betterprices>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2607,7 +2607,7 @@
 		<capitulation>-10</capitulation>
 		<insurance>10</insurance>
 	</BACKGROUND>
-	<!-- Bernard -->
+	<!-- Franz -->
 	<BACKGROUND>
 		<uiIndex>124</uiIndex>
 		<szName>Shopkeeper</szName>
