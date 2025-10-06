@@ -92269,8 +92269,6 @@ the globe.</szItemDesc>
 		<ubCoolness>2</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-3</bRepairEase>
-		<BR_NewInventory>4</BR_NewInventory>
-		<BR_ROF>800</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>18</DirtIncreaseFactor>
 		<ToHitBonus>-2</ToHitBonus>
