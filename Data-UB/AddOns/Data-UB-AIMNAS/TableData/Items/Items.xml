@@ -25096,8 +25096,6 @@
 		<usPrice>120</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<Inseparable>1</Inseparable>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentRecoilModifier>-10</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<PercentReadyTimeAPReduction>8</PercentReadyTimeAPReduction>
@@ -92271,8 +92269,6 @@ the globe.</szItemDesc>
 		<ubCoolness>2</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>-3</bRepairEase>
-		<BR_NewInventory>4</BR_NewInventory>
-		<BR_ROF>800</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>18</DirtIncreaseFactor>
 		<ToHitBonus>-2</ToHitBonus>
@@ -97238,7 +97234,6 @@ the globe.</szItemDesc>
 		<ubCoolness>5</ubCoolness>
 		<bReliability>1</bReliability>
 		<bRepairEase>2</bRepairEase>
-		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>20</DirtIncreaseFactor>
 		<PercentNoiseReduction>80</PercentNoiseReduction>
@@ -103384,7 +103379,6 @@ the globe.</szItemDesc>
 		<ubCoolness>3</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>5</bRepairEase>
-		<BR_ROF>40</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>20</DirtIncreaseFactor>
 		<DamageChance>10</DamageChance>
@@ -103657,9 +103651,6 @@ the globe.</szItemDesc>
 		<ubCoolness>2</ubCoolness>
 		<bReliability>4</bReliability>
 		<bRepairEase>2</bRepairEase>
-		<BR_NewInventory>7</BR_NewInventory>
-		<BR_UsedInventory>3</BR_UsedInventory>
-		<BR_ROF>25</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>18</DirtIncreaseFactor>
 		<DamageChance>10</DamageChance>
@@ -129240,7 +129231,6 @@ the globe.</szItemDesc>
 		<usPrice>14200</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
-		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>12</DirtIncreaseFactor>
 		<ToHitBonus>-5</ToHitBonus>
@@ -130499,7 +130489,6 @@ the globe.</szItemDesc>
 		<usPrice>14200</usPrice>
 		<ubCoolness>8</ubCoolness>
 		<bReliability>2</bReliability>
-		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>12</DirtIncreaseFactor>
 		<ToHitBonus>-5</ToHitBonus>
@@ -131451,7 +131440,6 @@ the globe.</szItemDesc>
 		<usPrice>13200</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bReliability>2</bReliability>
-		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>12</DirtIncreaseFactor>
 		<ToHitBonus>-5</ToHitBonus>
@@ -132219,7 +132207,6 @@ the globe.</szItemDesc>
 		<usPrice>13200</usPrice>
 		<ubCoolness>7</ubCoolness>
 		<bReliability>2</bReliability>
-		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>12</DirtIncreaseFactor>
 		<ToHitBonus>-5</ToHitBonus>
@@ -132792,8 +132779,6 @@ the globe.</szItemDesc>
 		<ubCoolness>4</ubCoolness>
 		<bReliability>2</bReliability>
 		<bRepairEase>2</bRepairEase>
-		<BR_NewInventory>1</BR_NewInventory>
-		<BR_ROF>600</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>20</DirtIncreaseFactor>
 		<ToHitBonus>-2</ToHitBonus>
