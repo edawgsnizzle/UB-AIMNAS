@@ -653,7 +653,7 @@ if ( Test == false ) then
 			ubNumTroops = 0
 			ubNumElites = 0
 		end
-		UB_SetNumberJa25EnemiesInSurfaceSector( 7, 8, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 7, 8, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 
 		-- H8
@@ -675,7 +675,7 @@ if ( Test == false ) then
 				ubNumElites = 2 + math.random( 1, 2 )
 		end
 				
-		UB_SetNumberJa25EnemiesInSurfaceSector( 8,8, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 8,8, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 	
 
 	-- Guard Post
@@ -698,7 +698,7 @@ if ( Test == false ) then
 				ubNumElites = 3 + math.random( 1, 2 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 9,8, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 9,8, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- H10
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -719,7 +719,7 @@ if ( Test == false ) then
 				ubNumElites = 2 + math.random( 1, 4 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 10,8, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 10,8, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- H11
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -740,7 +740,7 @@ if ( Test == false ) then
 				ubNumElites = 2 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 11,8, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 11,8, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 
 	-- I9
@@ -762,7 +762,7 @@ if ( Test == false ) then
 				ubNumElites = 2 + math.random( 1, 4 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 9,9, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 9,9, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- First part of town
 	-- I10
@@ -784,7 +784,7 @@ if ( Test == false ) then
 				ubNumElites = 5 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 10,9, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 10,9, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 		
 	-- Second part of town
 	-- I11
@@ -806,7 +806,7 @@ if ( Test == false ) then
 				ubNumElites = 5 + math.random( 1, 4 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 11,9, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 11,9, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- I12
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -827,7 +827,7 @@ if ( Test == false ) then
 				ubNumElites = 3 + math.random( 1, 2 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 12,9, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 12,9, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- Abandoned mine
 	-- I13
@@ -849,7 +849,7 @@ if ( Test == false ) then
 				ubNumElites = 0 
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 13,9, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 13,9, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- J11
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -870,7 +870,7 @@ if ( Test == false ) then
 				ubNumElites = 6 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 11,10, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 11,10, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- J12
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -891,7 +891,7 @@ if ( Test == false ) then
 				ubNumElites = 3 + math.random( 1, 2 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 12,10, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 12,10, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- Power Generator, Ground Level
 	-- F10
@@ -913,7 +913,7 @@ if ( Test == false ) then
 				ubNumElites = 21 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 10,6, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 10,6, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- Complex, Ground Level
 	-- D9
@@ -935,7 +935,7 @@ if ( Test == false ) then
 				ubNumElites = 26 + math.random( 1, 2 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 9,4, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 9,4, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- South SAM, Ground Level
 	-- J14
@@ -957,7 +957,7 @@ if ( Test == false ) then
 				ubNumElites = 8 + math.random( 1, 2 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 14,10, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 14,10, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- Passage to North SAM, Ground Level
 	-- F11
@@ -979,7 +979,7 @@ if ( Test == false ) then
 				ubNumElites = 20 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 11,6, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 11,6, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- Sardena Town
 	-- E13
@@ -1001,7 +1001,7 @@ if ( Test == false ) then
 				ubNumElites = 25 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 13,5, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 13,5, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- E14
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -1022,7 +1022,7 @@ if ( Test == false ) then
 				ubNumElites = 5 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 14,5, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 14,5, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- F13
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -1043,7 +1043,7 @@ if ( Test == false ) then
 				ubNumElites = 5 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 13,6, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 13,6, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 	-- F14
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -1064,7 +1064,7 @@ if ( Test == false ) then
 				ubNumElites = 5 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 14,6, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 14,6, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 			-- F15
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -1085,7 +1085,7 @@ if ( Test == false ) then
 				ubNumElites = 5 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 15,6, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 15,6, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 		-- G14
 			if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -1106,7 +1106,7 @@ if ( Test == false ) then
 				ubNumElites = 5 + math.random( 1, 3 )
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 14,7, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 14,7, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 		-- K14
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -1127,7 +1127,7 @@ if ( Test == false ) then
 				ubNumElites = 0
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 14,11, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 14,11, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 		-- K15
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -1148,7 +1148,7 @@ if ( Test == false ) then
 				ubNumElites = 0
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 15,11, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 15,11, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 
 		-- J13
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
@@ -1169,7 +1169,7 @@ if ( Test == false ) then
 				ubNumElites = 0
 		end
 
-		UB_SetNumberJa25EnemiesInSurfaceSector( 13,10, ubNumAdmins, ubNumTroops, ubNumElites )
+		UB_SetNumberJa25EnemiesInSurfaceSector( 13,10, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
 		
 end
 
