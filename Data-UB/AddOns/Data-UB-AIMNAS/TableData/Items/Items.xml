@@ -34636,7 +34636,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>1246</ubGraphicNum>
 		<ubWeight>24</ubWeight>
-		<ItemSize>6</ItemSize>
+		<ItemSize>569</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bReliability>-4</bReliability>
@@ -34662,6 +34662,8 @@
 		<szBRName>Sam Garver Combat Knife</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>4</usItemClass>
+		<AttachmentClass>2097152</AttachmentClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1353</ubClassIndex>
 		<ubCursor>4</ubCursor>
@@ -34669,7 +34671,7 @@
 		<ubGraphicNum>645</ubGraphicNum>
 		<ubWeight>9</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>24</ItemSize>
+		<ItemSize>726</ItemSize>
 		<usPrice>350</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bReliability>1</bReliability>
@@ -34698,8 +34700,8 @@
 		<ubClassIndex>2601</ubClassIndex>
 		<ubGraphicNum>1247</ubGraphicNum>
 		<ubWeight>25</ubWeight>
-		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>10</ItemSize>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>608</ItemSize>
 		<usPrice>5</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -34722,8 +34724,8 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>646</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>18</ItemSize>
+		<ubPerPocket>4</ubPerPocket>
+		<ItemSize>632</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -34747,7 +34749,7 @@
 		<ubGraphicNum>647</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>916</ItemSize>
 		<usPrice>20</usPrice>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -34767,7 +34769,7 @@
 		<ubGraphicNum>648</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>916</ItemSize>
 		<usPrice>20</usPrice>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -34787,7 +34789,7 @@
 		<ubGraphicNum>649</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>21</ItemSize>
+		<ItemSize>916</ItemSize>
 		<usPrice>20</usPrice>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
@@ -34802,12 +34804,13 @@
 		<szBRName>Che Guevara Canteen</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>650</ubGraphicNum>
-		<ubWeight>10</ubWeight>
+		<ubWeight>12</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>22</ItemSize>
+		<ItemSize>909</ItemSize>
 		<usPrice>25</usPrice>
 		<ubCoolness>1</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
@@ -34832,7 +34835,7 @@
 		<ubGraphicNum>651</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>11</ItemSize>
+		<ItemSize>914</ItemSize>
 		<usPrice>50</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
@@ -34859,7 +34862,7 @@
 		<ubGraphicNum>652</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>5</ItemSize>
+		<ItemSize>728</ItemSize>
 		<usPrice>20</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bReliability>-1</bReliability>
@@ -34888,8 +34891,8 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>653</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ubPerPocket>8</ubPerPocket>
-		<ItemSize>10</ItemSize>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>934</ItemSize>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Unaerodynamic>1</Unaerodynamic>
 		<STAND_MODIFIERS />

@@ -697,6 +697,35 @@
 		<usOverheatingSingleShotTemperature>150</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>1353</uiIndex>
+		<szWeaponName>Sam Garver Combat Knife</szWeaponName>
+		<ubWeaponClass>6</ubWeaponClass>
+		<ubShotsPer4Turns>14</ubShotsPer4Turns>
+		<ubImpact>20</ubImpact>
+		<ubDeadliness>7</ubDeadliness>
+		<usReloadDelay>200</usReloadDelay>
+		<ubAttackVolume>2</ubAttackVolume>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>1361</uiIndex>
+		<szWeaponName>MERC Umbrella</szWeaponName>
+		<ubWeaponClass>6</ubWeaponClass>
+		<ubShotsPer4Turns>10.46</ubShotsPer4Turns>
+		<ubImpact>12</ubImpact>
+		<ubDeadliness>5</ubDeadliness>
+		<usReloadDelay>200</usReloadDelay>
+		<ubAttackVolume>5</ubAttackVolume>
+		<sSound>87</sSound>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4002</uiIndex>
 		<szWeaponName>S&amp;W Model 64</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>

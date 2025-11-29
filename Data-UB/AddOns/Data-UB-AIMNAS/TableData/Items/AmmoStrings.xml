@@ -460,7 +460,7 @@
 		<AmmoCaliber>Monster</AmmoCaliber>
 		<BRCaliber>Monster</BRCaliber>
 	</AMMO>
-		<AMMO>
+	<AMMO>
 		<uiIndex>92</uiIndex>
 		<AmmoCaliber>Cannon Ball</AmmoCaliber>
 		<BRCaliber>Cannon Ball</BRCaliber>
