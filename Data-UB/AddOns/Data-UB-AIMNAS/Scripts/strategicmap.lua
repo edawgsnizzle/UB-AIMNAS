@@ -532,20 +532,20 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 		if ( bSectorZ == 0 ) then
 			-- J14 Mountain SAM
 			if ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_J ) then
-				CreateCivilian(74658, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
-				CreateCivilian(65331, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGFEMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(63881, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
+				CreateCivilian(74658, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4201, -1, -1)
+				CreateCivilian(65331, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGFEMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4241, -1, -1)
+				CreateCivilian(63881, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4201, -1, -1)
 			-- F10 Power Station
 			elseif ( sSectorX == 10 and sSectorY == SectorY.MAP_ROW_F ) then
-				CreateCivilian(40503, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGFEMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(39769, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
-				CreateCivilian(50573, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
+				CreateCivilian(40503, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGFEMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 2456, 4241, -1, -1)
+				CreateCivilian(39769, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4201, -1, -1)
+				CreateCivilian(50573, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4201, -1, -1)
 				CreateCivilian(41912, CivGroup.FACTORY_GROUP, -1, Bodytype.REGMALE, Vest.YELLOWVEST, Pants.TANPANTS, -1, -1, -1, -1, -1, -1)
 			-- D9 Complex Surface
 			elseif ( sSectorX == 9 and sSectorY == SectorY.MAP_ROW_D ) then
-				CreateCivilian(66037, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(85109, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(87292, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
+				CreateCivilian(66037, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4241, -1, -1)
+				CreateCivilian(85109, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.REGMALE, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4241, -1, -1)
+				CreateCivilian(87292, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4201, -1, -1)
 				CreateCivilian(79315, CivGroup.SCIENTIST_GROUP, -1, Bodytype.MANCIV, Vest.WHITEVEST, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(85834, CivGroup.ADMINISTRATIVE_STAFF_GROUP, -1, Bodytype.DRESSCIV, Vest.PURPLESHIRT, Pants.BLUEPANTS, Hair.WHITEHEAD, -1, -1, -1, -1, -1)
 			-- E13 Sardena Barracks
@@ -558,13 +558,13 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 				CreateCivilian(51632, CivGroup.BARRACK_STAFF_GROUP, -1, Bodytype.REGMALE, Vest.GREENVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
 				CreateCivilian(72900, CivGroup.BARRACK_STAFF_GROUP, -1, Bodytype.MANCIV, Vest.GREENVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
 				CreateCivilian(47677, CivGroup.BARRACK_STAFF_GROUP, -1, Bodytype.REGMALE, Vest.GREENVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
-				CreateCivilian(44456, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(45551, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
-				CreateCivilian(60238, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 635, -1, -1)
+				CreateCivilian(44456, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4241, -1, -1)
+				CreateCivilian(45551, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4241, -1, -1)
+				CreateCivilian(60238, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4241, -1, -1)
 			-- E14 Sardena Airport
 			elseif ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_E ) then
 				--CreateCivilian(71753, CivGroup.AIRPORT_STAFF_GROUP, -1, Bodytype.BIGMALE, Vest.BROWNVEST, Pants.JEANPANTS, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(36145, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 210, 8, -1, -1)
+				--CreateCivilian(36145, CivGroup.RADAR_TECHNICIAN_GROUP, -1, Bodytype.MANCIV, Vest.GREYVEST, Pants.GREENPANTS, -1, -1, 456, 4201, -1, -1)
 				--CreateCivilian(87243, CivGroup.AIRPORT_STAFF_GROUP, -1, Bodytype.REGFEMALE, Vest.BROWNVEST, Pants.JEANPANTS, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(88349, CivGroup.AIRPORT_STAFF_GROUP, -1, Bodytype.REGMALE, Vest.BROWNVEST, Pants.JEANPANTS, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(45197, CivGroup.AIRPORT_STAFF_GROUP, -1, Bodytype.REGFEMALE, Vest.BROWNVEST, Pants.JEANPANTS, -1, -1, -1, -1, -1, -1)
@@ -573,22 +573,22 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 				--CreateCivilian(56717, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(56722, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(71877, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.BIGMALE, Vest.BROWNVEST, Pants.BLACKPANTS, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(62154, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.REGMALE, -1, -1, -1, -1, 195, -1, -1, -1)
-				--CreateCivilian(65399, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.REGMALE, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(62154, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.REGMALE, -1, -1, -1, -1, -1, -1, -1, -1)
+				--CreateCivilian(65399, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.REGMALE, -1, -1, -1, -1, -1, -1, -1, -1)
 			-- F13 Sardena Residential
 			elseif ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_F ) then
 				--CreateCivilian(49820, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(49453, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(49453, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(53054, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(52334, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(26828, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(26828, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(17109, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(13511, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(31565, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(31565, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 			-- F14 Sardena Industrial
 			elseif ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_F ) then
 				--CreateCivilian(72512, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(63950, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(63950, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(59284, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(50269, CivGroup.FACTORY_GROUP, -1, Bodytype.REGMALE, Vest.YELLOWVEST, Pants.TANPANTS, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(40436, CivGroup.FACTORY_GROUP, -1, Bodytype.REGFEMALE, Vest.YELLOWVEST, Pants.TANPANTS, -1, -1, -1, -1, -1, -1)
@@ -597,24 +597,24 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 			elseif ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_G ) then
 				--CreateCivilian(84076, CivGroup.ADMINISTRATIVE_STAFF_GROUP, -1, Bodytype.MINICIV, Vest.PURPLESHIRT, Pants.BLUEPANTS, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(85501, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(92702, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.FATCIV, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(92702, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.FATCIV, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(86235, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(75426, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(23230, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(23230, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(27540, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(37977, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(42297, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(42297, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 			-- I10 Varrez
 			elseif ( sSectorX == 10 and sSectorY == SectorY.MAP_ROW_I ) then
 				--CreateCivilian(49519, CivGroup.ADMINISTRATIVE_STAFF_GROUP, -1, Bodytype.MINICIV, Vest.PURPLESHIRT, Pants.BLUEPANTS, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(85438, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(66074, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.FATCIV, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(66074, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.FATCIV, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(70395, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(83374, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(63892, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(63892, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(69678, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(75056, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(32286, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(32286, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 			-- I11 Varrez
 			elseif ( sSectorX == 11 and sSectorY == SectorY.MAP_ROW_I ) then
 				--CreateCivilian(93720, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
@@ -623,13 +623,13 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 				--CreateCivilian(76496, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.REGMALE, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(67512, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.BIGMALE, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(62464, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(34793, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(34793, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 			-- H11 Varrez
 			elseif ( sSectorX == 11 and sSectorY == SectorY.MAP_ROW_H ) then
 				--CreateCivilian(49142, CivGroup.BARRACK_STAFF_GROUP, -1, Bodytype.REGMALE, Vest.GREENVEST, Pants.GREENPANTS, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(75485, CivGroup.LOYAL_CIV_GROUP, -1, Bodytype.BIGMALE, -1, -1, -1, -1, -1, -1, -1, -1)
 				--CreateCivilian(71471, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
-				--CreateCivilian(90596, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, 195, -1, -1, -1)
+				--CreateCivilian(90596, CivGroup.LOYAL_CIV_GROUP, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1)
 			end
 		-- sublevel 1
 		elseif ( bSectorZ == 1 ) then

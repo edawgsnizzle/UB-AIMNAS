@@ -2,14 +2,14 @@
 <!-- See "Docs\Extra Sector Items.txt" for additional informations      -->
 <ExtraItems>
    <Item>
-      <uiIndex>1354</uiIndex>
+      <uiIndex>6000</uiIndex>
       <quantity>3</quantity>
       <condition>100</condition>
       <gridno>48066</gridno>
       <visible>1</visible>
    </Item>
    <Item>
-      <uiIndex>1352</uiIndex>
+      <uiIndex>5740</uiIndex>
       <quantity>1</quantity>
       <condition>100</condition>
       <gridno>48066</gridno>

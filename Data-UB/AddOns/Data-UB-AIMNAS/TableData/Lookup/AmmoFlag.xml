@@ -6,22 +6,10 @@
 	</AmmoFlag>
 	<AmmoFlag>
 		<id>1</id>
-		<name>Cryo</name>
-	</AmmoFlag>
-	<AmmoFlag>
-		<id>2</id>
-		<name>Blind</name>
+		<name>Neurotoxin</name>
 	</AmmoFlag>
 	<AmmoFlag>
 		<id>4</id>
-		<name>Anti-Materiel</name>
-	</AmmoFlag>
-	<AmmoFlag>
-		<id>8</id>
-		<name>Trail white smoke</name>
-	</AmmoFlag>
-	<AmmoFlag>
-		<id>16</id>
-		<name>Trail fire</name>
+		<name>ANTIMATERIAL</name>
 	</AmmoFlag>
 </JA2Data>

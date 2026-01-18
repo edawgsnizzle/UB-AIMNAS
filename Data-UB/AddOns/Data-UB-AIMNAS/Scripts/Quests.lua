@@ -90,9 +90,18 @@ local NO_PROFILE = 200
 -- UB function
 local function AddLaptopTransmitterToBettysInventory()
 	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, UB_itemLAPTOP_TRANSMITTER, 1 ) -- Laptop transmitter
-	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 216, 1 )
-	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 202, 2 )
-	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 201, 2 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 216, 4 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 217, 3 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 264, 1 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 361, 2 )
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 362, 2 )
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 363, 2 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 366, 2 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 372, 4 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 1043, 2 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 1502, 1 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 1952, 2 ) 
+	GuaranteeAtLeastXItemsOfIndex( ShopID.ARMS_DEALER_BETTY, 2201, 5 ) 
 end
 -- End UB
 

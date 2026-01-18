@@ -1458,24 +1458,24 @@ uiFlags must be of
 	</MERCHANT>
 	<MERCHANT>
 		<uiIndex>60</uiIndex>
-		<szName>drug dealer Sardena slums (F9)</szName>     <!-- 41 -->
+		<szName>Pilot's Lounge Bar (E14)</szName>     <!-- 41 -->
 		<dBuyModifier>1.0</dBuyModifier>
-		<dSellModifier>1.3</dSellModifier>
+		<dSellModifier>1.6</dSellModifier>
 		<ubShopKeeperID>200</ubShopKeeperID>
 		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
-		<iInitialCash>250</iInitialCash>
+		<iInitialCash>10000</iInitialCash>
 		<uiFlags>268435456</uiFlags>
-		<dailyIncrement>250</dailyIncrement>
-		<dailyMaximum>250</dailyMaximum>
+		<dailyIncrement>500</dailyIncrement>
+		<dailyMaximum>4000</dailyMaximum>
 		<dailyRetained>0</dailyRetained>
 		<minCoolness>1</minCoolness>
 		<maxCoolness>10</maxCoolness>
-		<addToCoolness>1</addToCoolness>
+		<addToCoolness>0</addToCoolness>
 		<coolnessProgressRate>100</coolnessProgressRate>
 		<daysDelayMin>1</daysDelayMin>
 		<daysDelayMax>2</daysDelayMax>
 		<useBRSetting>0</useBRSetting>
-		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
 		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>		<!-- no loyalty required -->
 	</MERCHANT>
 	<MERCHANT>

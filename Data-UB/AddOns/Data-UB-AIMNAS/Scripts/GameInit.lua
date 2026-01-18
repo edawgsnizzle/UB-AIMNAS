@@ -687,7 +687,7 @@ if ( Test == false ) then
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0
 				ubNumTroops = 12 + math.random( 1, 4 )
-				ubNumElites = 1
+				ubNumElites = 2
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0 
 				ubNumTroops = 15 + math.random( 1, 4 )
@@ -725,7 +725,7 @@ if ( Test == false ) then
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
 				ubNumTroops = 6 + math.random( 1, 3 )
-				ubNumElites = 0 
+				ubNumElites = 2 
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 8 + math.random( 1, 3 )
@@ -769,7 +769,7 @@ if ( Test == false ) then
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
 				ubNumTroops = 9 + math.random( 1, 3 )
-				ubNumElites = 0
+				ubNumElites = 1
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0
 				ubNumTroops = 12 + math.random( 1, 3 )
@@ -791,7 +791,7 @@ if ( Test == false ) then
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
 				ubNumTroops = 9 + math.random( 1, 5 )
-				ubNumElites = 0
+				ubNumElites = 1
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 10 + math.random( 1, 5 )
@@ -855,7 +855,7 @@ if ( Test == false ) then
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 10 + math.random( 1, 6 )
-				ubNumElites = 0 
+				ubNumElites = 3 
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 10 + math.random( 1, 3 )
@@ -897,8 +897,8 @@ if ( Test == false ) then
 	-- F10
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0 
-				ubNumTroops = 22 + math.random( 1, 6 )
-				ubNumElites = 3 
+				ubNumTroops = 12 + math.random( 1, 6 )
+				ubNumElites = 10 
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 25 + math.random( 1, 5 )
@@ -919,12 +919,12 @@ if ( Test == false ) then
 	-- D9
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0 
-				ubNumTroops = 17 + math.random( 1, 5 )
-				ubNumElites = 0 
+				ubNumTroops = 12 + math.random( 1, 5 )
+				ubNumElites = 10 
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 20 + math.random( 1, 3 )
-				ubNumElites = 7 + math.random( 1, 2 )
+				ubNumElites = 10 + math.random( 1, 2 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0 
 				ubNumTroops = 29 + math.random( 1, 3 )
@@ -941,8 +941,8 @@ if ( Test == false ) then
 	-- J14
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0 
-				ubNumTroops = 14 + math.random( 1, 5 )
-				ubNumElites = 0 
+				ubNumTroops = 10 + math.random( 1, 5 )
+				ubNumElites = 4 
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 18 + math.random( 1, 3 )
@@ -963,8 +963,8 @@ if ( Test == false ) then
 	-- F11
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
-				ubNumTroops = 16 + math.random( 1, 3 )
-				ubNumElites = 0 
+				ubNumTroops = 12 + math.random( 1, 3 )
+				ubNumElites = 6 
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0 
 				ubNumTroops = 18 + math.random( 1, 2 )
@@ -985,8 +985,8 @@ if ( Test == false ) then
 	-- E13
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
-				ubNumTroops = 22 + math.random( 1, 6 )
-				ubNumElites = 4
+				ubNumTroops = 18 + math.random( 1, 6 )
+				ubNumElites = 8
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0
 				ubNumTroops = 25 + math.random( 1, 4 )
@@ -1006,20 +1006,20 @@ if ( Test == false ) then
 	-- E14
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
-				ubNumTroops = 12 + math.random( 1, 4 )
-				ubNumElites = 0
+				ubNumTroops = 8 + math.random( 1, 4 )
+				ubNumElites = 6
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0
-				ubNumTroops = 15 + math.random( 1, 3 )
-				ubNumElites = 1 + math.random( 1, 2 )
+				ubNumTroops = 12 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 2 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0
 				ubNumTroops = 14 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 				ubNumAdmins = 0
 				ubNumTroops = 20 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 10 + math.random( 1, 3 )
 		end
 
 		UB_SetNumberJa25EnemiesInSurfaceSector( 14,5, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
@@ -1027,20 +1027,20 @@ if ( Test == false ) then
 	-- F13
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
-				ubNumTroops = 9 + math.random( 1, 4 )
-				ubNumElites = 0
+				ubNumTroops = 6 + math.random( 1, 4 )
+				ubNumElites = 6
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0
-				ubNumTroops = 12 + math.random( 1, 4 )
-				ubNumElites = 1 + math.random( 1, 2 )
+				ubNumTroops = 10 + math.random( 1, 4 )
+				ubNumElites = 6 + math.random( 1, 2 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0
 				ubNumTroops = 14 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 				ubNumAdmins = 0
 				ubNumTroops = 20 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 10 + math.random( 1, 3 )
 		end
 
 		UB_SetNumberJa25EnemiesInSurfaceSector( 13,6, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
@@ -1048,20 +1048,20 @@ if ( Test == false ) then
 	-- F14
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
-				ubNumTroops = 10 + math.random( 1, 6 )
-				ubNumElites = 0
+				ubNumTroops = 8 + math.random( 1, 6 )
+				ubNumElites = 6
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0
-				ubNumTroops = 13 + math.random( 1, 4 )
-				ubNumElites = 1 + math.random( 1, 3 )
+				ubNumTroops = 10 + math.random( 1, 4 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0
 				ubNumTroops = 14 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 				ubNumAdmins = 0
 				ubNumTroops = 20 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		end
 
 		UB_SetNumberJa25EnemiesInSurfaceSector( 14,6, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
@@ -1070,19 +1070,19 @@ if ( Test == false ) then
 		if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
 				ubNumTroops = 5 + math.random( 1, 6 )
-				ubNumElites = 0
+				ubNumElites = 6
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0
 				ubNumTroops = 10 + math.random( 1, 4 )
-				ubNumElites = 1 + math.random( 1, 3 )
+				ubNumElites = 6 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0
 				ubNumTroops = 14 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 				ubNumAdmins = 0
 				ubNumTroops = 20 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		end
 
 		UB_SetNumberJa25EnemiesInSurfaceSector( 15,6, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
@@ -1091,19 +1091,19 @@ if ( Test == false ) then
 			if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 				ubNumAdmins = 0
 				ubNumTroops = 9 + math.random( 1, 6 )
-				ubNumElites = 0
+				ubNumElites = 6
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
 				ubNumAdmins = 0
 				ubNumTroops = 12 + math.random( 1, 4 )
-				ubNumElites = 1 + math.random( 1, 3 )
+				ubNumElites = 6 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_HARD ) then	
 				ubNumAdmins = 0
 				ubNumTroops = 11 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 				ubNumAdmins = 0
 				ubNumTroops = 20 + math.random( 1, 4 )
-				ubNumElites = 5 + math.random( 1, 3 )
+				ubNumElites = 8 + math.random( 1, 3 )
 		end
 
 		UB_SetNumberJa25EnemiesInSurfaceSector( 14,7, ubNumAdmins, ubNumTroops, ubNumElites, ubNumTanks )
