@@ -5379,8 +5379,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
 		<sSalary>700</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>3300</uiWeeklySalary>
+		<uiBiWeeklySalary>6000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -6556,9 +6556,6 @@
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>40</bLearnToHate>
 		<bLearnToHateTime>10</bLearnToHateTime>
-		<sSalary>2500</sSalary>
-		<uiWeeklySalary>11500</uiWeeklySalary>
-		<uiBiWeeklySalary>22000</uiBiWeeklySalary>
 		<bRace>0</bRace>
 		<bNationality>0</bNationality>
 		<bAppearance>0</bAppearance>
@@ -6569,9 +6566,9 @@
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>0</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<sSalary>2500</sSalary>
+		<uiWeeklySalary>11500</uiWeeklySalary>
+		<uiBiWeeklySalary>22000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>2530</usOptionalGearCost>
@@ -18329,8 +18326,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
 		<sSalary>1000</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>6000</uiWeeklySalary>
+		<uiBiWeeklySalary>11000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>2866</usOptionalGearCost>
@@ -18437,8 +18434,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
 		<sSalary>1600</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>9600</uiWeeklySalary>
+		<uiBiWeeklySalary>18000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>4798</usOptionalGearCost>
@@ -19517,8 +19514,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>2800</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>16800</uiWeeklySalary>
+		<uiBiWeeklySalary>32000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>2529</usOptionalGearCost>
@@ -19625,8 +19622,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>100</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>600</uiWeeklySalary>
+		<uiBiWeeklySalary>1000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -19733,8 +19730,8 @@
 		<bRacist>1</bRacist>
 		<bSexist>2</bSexist>
 		<sSalary>150</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>900</uiWeeklySalary>
+		<uiBiWeeklySalary>1700</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -19841,8 +19838,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>300</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>1800</uiWeeklySalary>
+		<uiBiWeeklySalary>3500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -19949,8 +19946,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>500</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>3000</uiWeeklySalary>
+		<uiBiWeeklySalary>5500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -20057,8 +20054,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
 		<sSalary>400</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>2400</uiWeeklySalary>
+		<uiBiWeeklySalary>4500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -20165,8 +20162,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
 		<sSalary>400</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>2400</uiWeeklySalary>
+		<uiBiWeeklySalary>4500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -20273,8 +20270,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
 		<sSalary>400</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>2400</uiWeeklySalary>
+		<uiBiWeeklySalary>4500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -20597,8 +20594,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>150</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>900</uiWeeklySalary>
+		<uiBiWeeklySalary>1700</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -20705,8 +20702,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>50</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>300</uiWeeklySalary>
+		<uiBiWeeklySalary>550</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -20813,8 +20810,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>250</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>1500</uiWeeklySalary>
+		<uiBiWeeklySalary>2750</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -20921,8 +20918,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>500</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>3000</uiWeeklySalary>
+		<uiBiWeeklySalary>5500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -21350,8 +21347,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
 		<sSalary>500</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>3000</uiWeeklySalary>
+		<uiBiWeeklySalary>5500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>4703</usOptionalGearCost>
@@ -21458,8 +21455,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>100</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>600</uiWeeklySalary>
+		<uiBiWeeklySalary>1100</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -21566,8 +21563,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>100</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>600</uiWeeklySalary>
+		<uiBiWeeklySalary>1100</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -21674,8 +21671,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>100</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>600</uiWeeklySalary>
+		<uiBiWeeklySalary>1100</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -24030,8 +24027,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>250</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>1500</uiWeeklySalary>
+		<uiBiWeeklySalary>2750</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>418</usOptionalGearCost>
@@ -24138,8 +24135,8 @@
 		<bRacist>1</bRacist>
 		<bSexist>2</bSexist>
 		<sSalary>50</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>300</uiWeeklySalary>
+		<uiBiWeeklySalary>550</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>198</usOptionalGearCost>
@@ -24246,8 +24243,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
 		<sSalary>800</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>4800</uiWeeklySalary>
+		<uiBiWeeklySalary>8800</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>798</usOptionalGearCost>
@@ -24462,8 +24459,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
 		<sSalary>300</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>1800</uiWeeklySalary>
+		<uiBiWeeklySalary>3300</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>404</usOptionalGearCost>
@@ -24570,8 +24567,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>400</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>2400</uiWeeklySalary>
+		<uiBiWeeklySalary>4400</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>404</usOptionalGearCost>
@@ -24678,8 +24675,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>850</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>5100</uiWeeklySalary>
+		<uiBiWeeklySalary>9650</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>798</usOptionalGearCost>
@@ -24786,8 +24783,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>200</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>1200</uiWeeklySalary>
+		<uiBiWeeklySalary>2200</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -26622,8 +26619,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
 		<sSalary>250</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>900</uiWeeklySalary>
+		<uiBiWeeklySalary>1550</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -26946,8 +26943,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
 		<sSalary>250</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>900</uiWeeklySalary>
+		<uiBiWeeklySalary>1550</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -27162,8 +27159,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
 		<sSalary>350</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>2100</uiWeeklySalary>
+		<uiBiWeeklySalary>3850</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -27486,8 +27483,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
 		<sSalary>350</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>2100</uiWeeklySalary>
+		<uiBiWeeklySalary>3850</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -27594,8 +27591,8 @@
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>200</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<uiWeeklySalary>1200</uiWeeklySalary>
+		<uiBiWeeklySalary>2200</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
