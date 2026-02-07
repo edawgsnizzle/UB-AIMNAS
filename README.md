@@ -1,2 +1,2 @@
 # UB AIM
-Unfinished Business with SMEAGOL's item mod.
+Extended BigMaps version of Unfinished Business includings more towns and quests using SMEAGOL's AIMNAS item mod.
